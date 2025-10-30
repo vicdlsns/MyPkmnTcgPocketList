@@ -1,0 +1,117 @@
+[ ] 1 - Potion - Common 
+[ ] 2 - X Speed - Common 
+[ ] 3 - Hand Scope - Common 
+[ ] 4 - Pokédex - Common 
+[ ] 5 - Poké Ball - Common 
+[ ] 6 - Red Card - Common 
+[ ] 7 - Professor’s Research - Common 
+[ ] 8 - Pokédex - Common 
+[ ] 9 - Pikachu - Art Rare 
+[ ] 10 - Mewtwo - Art Rare 
+[ ] 11 - Chansey - Rare 
+[ ] 12 - Meowth - Rare 
+[ ] 13 - Butterfree - Rare 
+[ ] 14 - Lapras ex - Double Rare 
+[ ] 15 - Pikachu - Common 
+[ ] 16 - Clefairy - Common 
+[ ] 17 - Mankey - Common 
+[ ] 18 - Venusaur - Art Rare 
+[ ] 19 - Greninja - Rare 
+[ ] 20 - Haunter - Common 
+[ ] 21 - Onix - Common 
+[ ] 22 - Jigglypuff - Common 
+[ ] 23 - Bulbasaur - Rare 
+[ ] 24 - Magnemite - Rare 
+[ ] 25 - Moltres ex - Double Rare 
+[ ] 26 - Pikachu - Art Rare 
+[ ] 27 - Snivy - Common 
+[ ] 28 - Volcarona - Rare 
+[ ] 29 - Blastoise - Art Rare 
+[ ] 30 - Eevee - Common 
+[ ] 31 - Cinccino - Common 
+[ ] 32 - Charmander - Rare 
+[ ] 33 - Squirtle - Rare 
+[ ] 34 - Piplup - Art Rare 
+[ ] 35 - Turtwig - Common 
+[ ] 36 - Electivire - Rare 
+[ ] 37 - Cresselia ex - Double Rare 
+[ ] 38 - Misdreavus - Common 
+[ ] 39 - Skarmory - Common 
+[ ] 40 - Chimchar - Rare 
+[ ] 41 - Togepi - Rare 
+[ ] 42 - Darkrai ex - Double Rare 
+[ ] 43 - Cherrim - Common 
+[ ] 44 - Raichu - Rare 
+[ ] 45 - Nosepass - Common 
+[ ] 46 - Gible - Art Rare 
+[ ] 47 - Staraptor - Common 
+[ ] 48 - Manaphy - Rare 
+[ ] 49 - Snorlax - Rare 
+[ ] 50 - Mewtwo ex - Shiny Super Rare 
+[ ] 51 - Cyclizar - Shiny 
+[ ] 52 - Sprigatito - Art Rare 
+[ ] 53 - Floatzel - Common 
+[ ] 54 - Pawmot - Art Rare 
+[ ] 55 - Machamp - Rare 
+[ ] 56 - Ekans - Common 
+[ ] 57 - Bidoof - Common 
+[ ] 58 - Pachirisu - Rare 
+[ ] 59 - Riolu - Rare 
+[ ] 60 - Exeggcute - Common 
+[ ] 61 - Froakie - Common 
+[ ] 62 - Farfetch’d - Common 
+[ ] 63 - Rayquaza - Rare 
+[ ] 64 - Rayquaza ex - Double Rare 
+[ ] 65 - Rayquaza ex - Super Rare 
+[ ] 66 - Mimikyu - Art Rare 
+[ ] 67 - Cosmog - Rare 
+[ ] 68 - Lycanroc - Rare 
+[ ] 69 - Alolan Exeggutor - Rare 
+[ ] 70 - Alolan Ninetales - Art Rare 
+[ ] 71 - Crabrawler - Common 
+[ ] 72 - Alolan Grimer - Common 
+[ ] 73 - Toucannon - Common 
+[ ] 74 - Zeraora - Art Rare 
+[ ] 75 - Kartana - Common 
+[ ] 76 - Blacephalon - Common 
+[ ] 77 - Xurkitree - Common 
+[ ] 78 - Dawn Wings Necrozma - Rare 
+[ ] 79 - Dusk Mane Necrozma - Rare 
+[ ] 80 - Stakataka - Common 
+[ ] 81 - Ultra Necrozma ex - Double Rare 
+[ ] 82 - Poipole - Rare 
+[ ] 83 - Stufful - Rare 
+[ ] 84 - Tapu Koko ex - Double Rare 
+[ ] 85 - Vanillite - Common 
+[ ] 86 - Jolteon - Rare 
+[ ] 87 - Alcremie - Art Rare 
+[ ] 88 - Dragonair - Common 
+[ ] 89 - Audino - Common 
+[ ] 90 - Togedemaru - Rare 
+[ ] 91 - Greedent - Rare 
+[ ] 92 - Eevee - Rare 
+[ ] 93 - Cleffa - Art Rare 
+[ ] 94 - Horsea - Common 
+[ ] 95 - Chinchou - Common 
+[ ] 96 - Houndoom - Common 
+[ ] 97 - Kangaskhan - Rare 
+[ ] 98 - Blissey ex - Double Rare 
+[ ] 99 - Marill - Rare 
+[ ] 100 - Weavile - Rare 
+[ ] 101 - Latias - Art Rare 
+[ ] 102 - Tropius - Common 
+[ ] 103 - Poliwag - Common 
+[ ] 104 - Milotic - Rare 
+[ ] 105 - Zorua - Common 
+[ ] 106 - Zoroark - Art Rare 
+[ ] 107 - Miltank - Rare 
+[ ] 108 - Phanpy - Rare 
+[ ] 109 - Eevee ex - Special Art Rare 
+[ ] 110 - Entei ex - Double Rare 
+[ ] 111 - Pikachu - Common 
+[ ] 112 - Raichu ex - Double Rare 
+[ ] 113 - Mimikyu - Common 
+[ ] 114 - Machamp - Common 
+[ ] 115 - Regigigas - Rare 
+[ ] 116 - Shaymin - Rare 
+[ ] 117 - Absol - Rare 
