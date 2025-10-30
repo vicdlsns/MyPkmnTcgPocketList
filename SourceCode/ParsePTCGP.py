@@ -8,40 +8,41 @@ filenamecards="cards.json"
 filenamesets="sets.json"
 filenamerarity="rarity.json"
 
-getFromUrl=False
+def getCards(getFromUrl=False):
+    if getFromUrl:
 
-if getFromUrl:
+        with urllib.request.urlopen(urlcards) as url:
+            cards = json.loads(url.read().decode())
 
-    with urllib.request.urlopen(urlcards) as url:
-        cards = json.loads(url.read().decode())
+            with open(filenamecards, 'w', encoding='utf-8') as f:
+                json.dump(cards, f, ensure_ascii=False, indent=2)
+            #print(cards)
 
-        with open(filenamecards, 'w', encoding='utf-8') as f:
-            json.dump(cards, f, ensure_ascii=False, indent=2)
-        #print(cards)
+        with urllib.request.urlopen(urlsets) as url:
+            sets = json.loads(url.read().decode())
 
-    with urllib.request.urlopen(urlsets) as url:
-        sets = json.loads(url.read().decode())
+            with open(filenamesets, 'w', encoding='utf-8') as f:
+                json.dump(sets, f, ensure_ascii=False, indent=2)
+            #print(sets)
 
-        with open(filenamesets, 'w', encoding='utf-8') as f:
-            json.dump(sets, f, ensure_ascii=False, indent=2)
-        #print(sets)
+        with urllib.request.urlopen(urlrarity) as url:
+            rarity = json.loads(url.read().decode())
 
-    with urllib.request.urlopen(urlrarity) as url:
-        rarity = json.loads(url.read().decode())
+            with open(filenamerarity, 'w', encoding='utf-8') as f:
+                json.dump(rarity, f, ensure_ascii=False, indent=2)
+            #print(rarity)
 
-        with open(filenamerarity, 'w', encoding='utf-8') as f:
-            json.dump(rarity, f, ensure_ascii=False, indent=2)
-        #print(rarity)
+    else:
+        with open(filenamecards) as f:
+            cards = json.load(f)
 
-else:
-    with open(filenamecards) as f:
-        cards = json.load(f)
+        with open(filenamesets) as f:
+            sets = json.load(f)
 
-    with open(filenamesets) as f:
-        sets = json.load(f)
+        with open(filenamerarity) as f:
+            rarity = json.load(f)
 
-    with open(filenamerarity) as f:
-        rarity = json.load(f)
+    return cards, sets, rarity
 
 def setNamesTup():
     setTup = [(s["code"],s["label"]["en"]) for s in sets]
@@ -62,14 +63,14 @@ def saveMarkdown(setCode=None):
         for code, name in idName:
             name=name.replace(":"," ")
             L = cardsFromSet(code)
-            with open(f"List_{code}_{name.replace(' ','-')}.md","w") as file:
+            with open(f"..\\EmptyLists\\List_{code}-{name.replace(' ','-')}.md","w") as file:
                 for card in L:
                     file.write(f"- [ ] {card['number']} - {card['label']['eng']} - {card['rarity']} \n")
     else:
         L = cardsFromSet(setCode)
         name = [tup for tup in idName if tup[0] == setCode][0][1]
         name=name.replace(":"," ")
-        with open(f"List_{setCode}-{name.replace(' ','-')}.md","w") as file:
+        with open(f"..\\EmptyLists\\List_{setCode}-{name.replace(' ','-')}.md","w") as file:
             for card in L:
                file.write(f"- [ ] {card['number']} - {card['label']['eng']} - {card['rarity']} \n")
 
