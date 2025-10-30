@@ -16,10 +16,10 @@
 
 #### Code explanation
 - Some global variables to get urls and filenames are defined at the first lines.
-- getCards(getFromUrl=False) function either loads data from the urls or from json files at "SourceCode" folder, returns 3 json lists.
+- getCards(getFromUrl=False) function either loads data from the urls or from json files at "SourceCode" folder, returns 3 json lists (cards, sets, rarity).
 - setNamesTup() and setNamesDict() are auxiliary functions to associate all IDs and set names, returns tuple list or dict.
 - cardsFromSet(setCode) gets all cards of selected set, returns json list.
-- saveMarkdown(setCode=None) saves the selected set cards in empty .md files, if selected is None saves all. Saves lines in checklist format "- [ ] Number - Name - Rarity"
+- saveMarkdown(setCode=None) saves the selected set cards in empty .md files, if selected is None saves all. Saves lines in checklist format "- [ ] Number - Name - Rarity".
 - genWishlist(filenameList=glob.glob("..\\_MyCards\\*.md"), outFilename="..\\_Wishlist.md") reads the filled .md files at "_MyCards" folder and writes all non-ticked cards in "_Wishlist.md" at the main directory.
 
 
