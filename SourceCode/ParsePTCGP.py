@@ -1,4 +1,4 @@
-import urllib.request, json 
+import urllib.request, json, glob
 
 urlcards = "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist/cards.json"
 urlsets = "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist/sets.json"
@@ -69,11 +69,11 @@ def saveMarkdown(setCode=None):
         L = cardsFromSet(setCode)
         name = [tup for tup in idName if tup[0] == setCode][0][1]
         name=name.replace(":"," ")
-        with open(f"List_{setCode}_{name.replace(' ','-')}.md","w") as file:
+        with open(f"List_{setCode}-{name.replace(' ','-')}.md","w") as file:
             for card in L:
                file.write(f"- [ ] {card['number']} - {card['label']['eng']} - {card['rarity']} \n")
 
-def genWishlist(filenameList, outFilename):
+def genWishlist(filenameList=glob.glob("..\\_MyCards\\*.md"), outFilename="..\\_Wishlist.md"):
     saveList = []
     for filename in filenameList:
         with open(filename,"r") as file:
