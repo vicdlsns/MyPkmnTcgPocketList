@@ -1,0 +1,207 @@
+- [x] 1 - Oddish - Common 
+- [x] 2 - Gloom - Common 
+- [x] 3 - Bellossom - Uncommon 
+- [x] 4 - Tangela - Common 
+- [x] 5 - Tangrowth - Uncommon 
+- [x] 6 - Yanma - Common 
+- [x] 7 - Yanmega ex - Double Rare 
+- [x] 8 - Roselia - Common 
+- [x] 9 - Roserade - Uncommon 
+- [x] 10 - Turtwig - Common 
+- [x] 11 - Grotle - Uncommon 
+- [x] 12 - Torterra - Rare 
+- [x] 13 - Kricketot - Common 
+- [x] 14 - Kricketune - Common 
+- [x] 15 - Burmy - Common 
+- [x] 16 - Wormadam - Common 
+- [x] 17 - Combee - Common 
+- [x] 18 - Vespiquen - Uncommon 
+- [x] 19 - Carnivine - Uncommon 
+- [x] 20 - Leafeon - Rare 
+- [x] 21 - Mow Rotom - Common 
+- [x] 22 - Shaymin - Rare 
+- [x] 23 - Magmar - Common 
+- [x] 24 - Magmortar - Rare 
+- [x] 25 - Slugma - Common 
+- [x] 26 - Magcargo - Uncommon 
+- [x] 27 - Chimchar - Common 
+- [x] 28 - Monferno - Uncommon 
+- [x] 29 - Infernape ex - Double Rare 
+- [x] 30 - Heat Rotom - Common 
+- [x] 31 - Swinub - Common 
+- [x] 32 - Piloswine - Uncommon 
+- [x] 33 - Mamoswine - Rare 
+- [x] 34 - Regice - Uncommon 
+- [x] 35 - Piplup - Common 
+- [x] 36 - Prinplup - Uncommon 
+- [x] 37 - Empoleon - Rare 
+- [x] 38 - Buizel - Common 
+- [x] 39 - Floatzel - Uncommon 
+- [x] 40 - Shellos - Common 
+- [x] 41 - Gastrodon - Uncommon 
+- [x] 42 - Finneon - Common 
+- [x] 43 - Lumineon - Uncommon 
+- [x] 44 - Snover - Common 
+- [x] 45 - Abomasnow - Uncommon 
+- [x] 46 - Glaceon - Rare 
+- [x] 47 - Wash Rotom - Common 
+- [x] 48 - Frost Rotom - Common 
+- [x] 49 - Palkia ex - Double Rare 
+- [x] 50 - Manaphy - Uncommon 
+- [x] 51 - Magnemite - Common 
+- [x] 52 - Magneton - Uncommon 
+- [x] 53 - Magnezone - Rare 
+- [x] 54 - Voltorb - Common 
+- [x] 55 - Electrode - Uncommon 
+- [x] 56 - Electabuzz - Common 
+- [x] 57 - Electivire - Rare 
+- [x] 58 - Shinx - Common 
+- [x] 59 - Luxio - Uncommon 
+- [x] 60 - Luxray - Rare 
+- [x] 61 - Pachirisu ex - Double Rare 
+- [x] 62 - Rotom - Common 
+- [x] 63 - Togepi - Common 
+- [x] 64 - Togetic - Uncommon 
+- [x] 65 - Togekiss - Rare 
+- [x] 66 - Misdreavus - Common 
+- [x] 67 - Mismagius ex - Double Rare 
+- [x] 68 - Ralts - Common 
+- [x] 69 - Kirlia - Common 
+- [x] 70 - Duskull - Common 
+- [x] 71 - Dusclops - Uncommon 
+- [x] 72 - Dusknoir - Rare 
+- [x] 73 - Drifloon - Common 
+- [x] 74 - Drifblim - Uncommon 
+- [x] 75 - Uxie - Uncommon 
+- [x] 76 - Mesprit - Rare 
+- [x] 77 - Azelf - Uncommon 
+- [x] 78 - Giratina - Rare 
+- [x] 79 - Cresselia - Rare 
+- [x] 80 - Rhyhorn - Common 
+- [x] 81 - Rhydon - Uncommon 
+- [x] 82 - Rhyperior - Rare 
+- [x] 83 - Gligar - Common 
+- [x] 84 - Gliscor - Uncommon 
+- [x] 85 - Hitmontop - Common 
+- [x] 86 - Nosepass - Common 
+- [x] 87 - Regirock - Uncommon 
+- [x] 88 - Cranidos - Uncommon 
+- [x] 89 - Rampardos - Rare 
+- [x] 90 - Wormadam - Common 
+- [x] 91 - Riolu - Common 
+- [x] 92 - Lucario - Rare 
+- [x] 93 - Hippopotas - Common 
+- [x] 94 - Hippowdon - Uncommon 
+- [x] 95 - Gallade ex - Double Rare 
+- [x] 96 - Murkrow - Common 
+- [x] 97 - Honchkrow - Uncommon 
+- [x] 98 - Sneasel - Common 
+- [x] 99 - Weavile ex - Double Rare 
+- [x] 100 - Poochyena - Common 
+- [x] 101 - Mightyena - Uncommon 
+- [x] 102 - Stunky - Common 
+- [x] 103 - Skuntank - Uncommon 
+- [x] 104 - Spiritomb - Uncommon 
+- [x] 105 - Skorupi - Common 
+- [x] 106 - Drapion - Uncommon 
+- [x] 107 - Croagunk - Common 
+- [x] 108 - Toxicroak - Uncommon 
+- [x] 109 - Darkrai - Rare 
+- [x] 110 - Darkrai ex - Double Rare 
+- [x] 111 - Skarmory - Uncommon 
+- [x] 112 - Registeel - Uncommon 
+- [x] 113 - Shieldon - Uncommon 
+- [x] 114 - Bastiodon - Rare 
+- [x] 115 - Wormadam - Common 
+- [x] 116 - Bronzor - Common 
+- [x] 117 - Bronzong - Uncommon 
+- [x] 118 - Probopass - Uncommon 
+- [x] 119 - Dialga ex - Double Rare 
+- [x] 120 - Heatran - Rare 
+- [x] 121 - Gible - Common 
+- [x] 122 - Gabite - Uncommon 
+- [x] 123 - Garchomp - Rare 
+- [x] 124 - Lickitung - Common 
+- [x] 125 - Lickilicky ex - Double Rare 
+- [x] 126 - Eevee - Common 
+- [x] 127 - Porygon - Common 
+- [x] 128 - Porygon2 - Uncommon 
+- [x] 129 - Porygon-Z - Rare 
+- [x] 130 - Aipom - Common 
+- [x] 131 - Ambipom - Common 
+- [x] 132 - Starly - Common 
+- [x] 133 - Staravia - Common 
+- [x] 134 - Staraptor - Uncommon 
+- [x] 135 - Bidoof - Common 
+- [x] 136 - Bibarel - Common 
+- [x] 137 - Buneary - Common 
+- [x] 138 - Lopunny - Common 
+- [x] 139 - Glameow - Common 
+- [x] 140 - Purugly - Uncommon 
+- [x] 141 - Chatot - Common 
+- [x] 142 - Fan Rotom - Common 
+- [x] 143 - Regigigas - Rare 
+- [x] 144 - Skull Fossil - Common 
+- [x] 145 - Armor Fossil - Common 
+- [x] 146 - Pokémon Communication - Uncommon 
+- [x] 147 - Giant Cape - Uncommon 
+- [x] 148 - Rocky Helmet - Uncommon 
+- [x] 149 - Lum Berry - Uncommon 
+- [x] 150 - Cyrus - Uncommon 
+- [x] 151 - Team Galactic Grunt - Uncommon 
+- [x] 152 - Cynthia - Uncommon 
+- [x] 153 - Volkner - Uncommon 
+- [x] 154 - Dawn - Uncommon 
+- [x] 155 - Mars - Uncommon 
+- [x] 156 - Tangrowth - Art Rare 
+- [x] 157 - Combee - Art Rare 
+- [ ] 158 - Carnivine - Art Rare 
+- [x] 159 - Shaymin - Art Rare 
+- [ ] 160 - Mamoswine - Art Rare 
+- [x] 161 - Gastrodon - Art Rare 
+- [x] 162 - Manaphy - Art Rare 
+- [ ] 163 - Shinx - Art Rare 
+- [x] 164 - Rotom - Art Rare 
+- [x] 165 - Drifloon - Art Rare 
+- [ ] 166 - Mesprit - Art Rare 
+- [x] 167 - Giratina - Art Rare 
+- [x] 168 - Cresselia - Art Rare 
+- [ ] 169 - Rhyperior - Art Rare 
+- [x] 170 - Lucario - Art Rare 
+- [x] 171 - Hippopotas - Art Rare 
+- [x] 172 - Spiritomb - Art Rare 
+- [ ] 173 - Croagunk - Art Rare 
+- [ ] 174 - Heatran - Art Rare 
+- [ ] 175 - Garchomp - Art Rare 
+- [x] 176 - Staraptor - Art Rare 
+- [x] 177 - Bidoof - Art Rare 
+- [ ] 178 - Glameow - Art Rare 
+- [x] 179 - Regigigas - Art Rare 
+- [ ] 180 - Yanmega ex - Super Rare 
+- [ ] 181 - Infernape ex - Super Rare 
+- [ ] 182 - Palkia ex - Super Rare 
+- [ ] 183 - Pachirisu ex - Super Rare 
+- [ ] 184 - Mismagius ex - Super Rare 
+- [ ] 185 - Gallade ex - Super Rare 
+- [ ] 186 - Weavile ex - Super Rare 
+- [ ] 187 - Darkrai ex - Super Rare 
+- [ ] 188 - Dialga ex - Super Rare 
+- [ ] 189 - Lickilicky ex - Super Rare 
+- [ ] 190 - Cyrus - Super Rare 
+- [ ] 191 - Team Galactic Grunt - Super Rare 
+- [x] 192 - Cynthia - Super Rare 
+- [ ] 193 - Volkner - Super Rare 
+- [ ] 194 - Dawn - Super Rare 
+- [ ] 195 - Mars - Super Rare 
+- [ ] 196 - Yanmega ex - Special Art Rare 
+- [ ] 197 - Infernape ex - Special Art Rare 
+- [ ] 198 - Pachirisu ex - Special Art Rare 
+- [ ] 199 - Mismagius ex - Special Art Rare 
+- [ ] 200 - Gallade ex - Special Art Rare 
+- [ ] 201 - Weavile ex - Special Art Rare 
+- [ ] 202 - Darkrai ex - Special Art Rare 
+- [x] 203 - Lickilicky ex - Special Art Rare 
+- [x] 204 - Palkia ex - Immersive Rare 
+- [ ] 205 - Dialga ex - Immersive Rare 
+- [ ] 206 - Palkia ex - Crown Rare 
+- [ ] 207 - Dialga ex - Crown Rare 

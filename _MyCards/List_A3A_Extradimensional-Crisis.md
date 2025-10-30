@@ -1,0 +1,103 @@
+- [x] 1 - Petilil - Common 
+- [x] 2 - Lilligant - Common 
+- [x] 3 - Rowlet - Common 
+- [x] 4 - Dartrix - Uncommon 
+- [x] 5 - Decidueye - Rare 
+- [x] 6 - Buzzwole ex - Double Rare 
+- [x] 7 - Pheromosa - Uncommon 
+- [x] 8 - Kartana - Common 
+- [x] 9 - Blacephalon - Uncommon 
+- [x] 10 - Mantine - Common 
+- [x] 11 - Carvanha - Common 
+- [x] 12 - Sharpedo - Uncommon 
+- [x] 13 - Shinx - Common 
+- [x] 14 - Luxio - Common 
+- [x] 15 - Luxray - Rare 
+- [x] 16 - Blitzle - Common 
+- [x] 17 - Zebstrika - Common 
+- [x] 18 - Emolga - Common 
+- [x] 19 - Tapu Koko ex - Double Rare 
+- [x] 20 - Xurkitree - Uncommon 
+- [x] 21 - Zeraora - Rare 
+- [x] 22 - Clefairy - Common 
+- [x] 23 - Clefable - Uncommon 
+- [x] 24 - Phantump - Common 
+- [x] 25 - Trevenant - Common 
+- [x] 26 - Morelull - Common 
+- [x] 27 - Shiinotic - Rare 
+- [x] 28 - Meditite - Common 
+- [x] 29 - Medicham - Uncommon 
+- [x] 30 - Baltoy - Common 
+- [x] 31 - Claydol - Uncommon 
+- [x] 32 - Rockruff - Common 
+- [x] 33 - Lycanroc ex - Double Rare 
+- [x] 34 - Passimian - Common 
+- [x] 35 - Sandygast - Common 
+- [x] 36 - Palossand - Uncommon 
+- [x] 37 - Alolan Meowth - Common 
+- [x] 38 - Alolan Persian - Uncommon 
+- [x] 39 - Sandile - Common 
+- [x] 40 - Krokorok - Common 
+- [x] 41 - Krookodile - Uncommon 
+- [x] 42 - Nihilego - Rare 
+- [x] 43 - Guzzlord ex - Double Rare 
+- [x] 44 - Poipole - Common 
+- [x] 45 - Naganadel - Rare 
+- [x] 46 - Alolan Diglett - Common 
+- [x] 47 - Alolan Dugtrio ex - Double Rare 
+- [x] 48 - Aron - Common 
+- [x] 49 - Lairon - Common 
+- [x] 50 - Aggron - Uncommon 
+- [x] 51 - Ferroseed - Common 
+- [x] 52 - Ferrothorn - Uncommon 
+- [x] 53 - Stakataka - Uncommon 
+- [x] 54 - Lillipup - Common 
+- [x] 55 - Herdier - Common 
+- [x] 56 - Stoutland - Uncommon 
+- [x] 57 - Stufful - Common 
+- [x] 58 - Bewear - Uncommon 
+- [x] 59 - Oranguru - Common 
+- [x] 60 - Type: Null - Uncommon 
+- [x] 61 - Silvally - Rare 
+- [x] 62 - Celesteela - Rare 
+- [x] 63 - Beast Wall - Uncommon 
+- [x] 64 - Repel - Uncommon 
+- [x] 65 - Electrical Cord - Uncommon 
+- [x] 66 - Beastite - Uncommon 
+- [x] 67 - Gladion - Uncommon 
+- [x] 68 - Looker - Uncommon 
+- [x] 69 - Lusamine - Uncommon 
+- [ ] 70 - Rowlet - Art Rare 
+- [x] 71 - Pheromosa - Art Rare 
+- [x] 72 - Blacephalon - Art Rare 
+- [x] 73 - Alolan Meowth - Art Rare 
+- [x] 74 - Silvally - Art Rare 
+- [ ] 75 - Celesteela - Art Rare 
+- [ ] 76 - Buzzwole ex - Super Rare 
+- [x] 77 - Tapu Koko ex - Super Rare 
+- [ ] 78 - Lycanroc ex - Super Rare 
+- [ ] 79 - Guzzlord ex - Super Rare 
+- [x] 80 - Alolan Dugtrio ex - Super Rare 
+- [ ] 81 - Gladion - Super Rare 
+- [ ] 82 - Looker - Super Rare 
+- [ ] 83 - Lusamine - Super Rare 
+- [ ] 84 - Tapu Koko ex - Special Art Rare 
+- [ ] 85 - Lycanroc ex - Special Art Rare 
+- [ ] 86 - Guzzlord ex - Special Art Rare 
+- [ ] 87 - Alolan Dugtrio ex - Special Art Rare 
+- [x] 88 - Buzzwole ex - Immersive Rare 
+- [ ] 89 - Growlithe - Shiny 
+- [ ] 90 - Arcanine - Shiny 
+- [ ] 91 - Froakie - Shiny 
+- [ ] 92 - Frogadier - Shiny 
+- [ ] 93 - Greninja - Shiny 
+- [ ] 94 - Jynx - Shiny 
+- [ ] 95 - Pidgey - Shiny 
+- [ ] 96 - Pidgeotto - Shiny 
+- [ ] 97 - Pidgeot - Shiny 
+- [x] 98 - Aerodactyl - Shiny 
+- [ ] 99 - Celebi ex - Shiny Super Rare 
+- [ ] 100 - Arcanine ex - Shiny Super Rare 
+- [ ] 101 - Aerodactyl ex - Shiny Super Rare 
+- [ ] 102 - Pidgeot ex - Shiny Super Rare 
+- [ ] 103 - Nihilego - Crown Rare 

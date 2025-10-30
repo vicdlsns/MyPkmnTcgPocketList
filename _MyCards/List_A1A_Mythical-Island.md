@@ -1,0 +1,86 @@
+- [x] 1 - Exeggcute - Common 
+- [x] 2 - Exeggutor - Uncommon 
+- [x] 3 - Celebi ex - Double Rare 
+- [x] 4 - Snivy - Common 
+- [x] 5 - Servine - Uncommon 
+- [x] 6 - Serperior - Rare 
+- [x] 7 - Morelull - Common 
+- [x] 8 - Shiinotic - Uncommon 
+- [x] 9 - Dhelmise - Uncommon 
+- [x] 10 - Ponyta - Common 
+- [x] 11 - Rapidash - Uncommon 
+- [x] 12 - Magmar - Uncommon 
+- [x] 13 - Larvesta - Common 
+- [x] 14 - Volcarona - Rare 
+- [x] 15 - Salandit - Common 
+- [x] 16 - Salazzle - Common 
+- [x] 17 - Magikarp - Common 
+- [x] 18 - Gyarados ex - Double Rare 
+- [x] 19 - Vaporeon - Rare 
+- [x] 20 - Finneon - Common 
+- [x] 21 - Lumineon - Uncommon 
+- [x] 22 - Chewtle - Common 
+- [x] 23 - Drednaw - Uncommon 
+- [x] 24 - Cramorant - Common 
+- [x] 25 - Pikachu - Common 
+- [x] 26 - Raichu - Rare 
+- [x] 27 - Electabuzz - Uncommon 
+- [x] 28 - Joltik - Common 
+- [x] 29 - Galvantula - Uncommon 
+- [x] 30 - Dedenne - Common 
+- [x] 31 - Mew - Rare 
+- [x] 32 - Mew ex - Double Rare 
+- [x] 33 - Sigilyph - Uncommon 
+- [x] 34 - Elgyem - Common 
+- [x] 35 - Beheeyem - Uncommon 
+- [x] 36 - Flabébé - Common 
+- [x] 37 - Floette - Common 
+- [x] 38 - Florges - Uncommon 
+- [x] 39 - Swirlix - Common 
+- [x] 40 - Slurpuff - Common 
+- [x] 41 - Mankey - Common 
+- [x] 42 - Primeape - Common 
+- [x] 43 - Geodude - Common 
+- [x] 44 - Graveler - Uncommon 
+- [x] 45 - Golem - Rare 
+- [x] 46 - Aerodactyl ex - Double Rare 
+- [x] 47 - Marshadow - Rare 
+- [x] 48 - Stonjourner - Uncommon 
+- [x] 49 - Koffing - Common 
+- [x] 50 - Weezing - Uncommon 
+- [x] 51 - Purrloin - Common 
+- [x] 52 - Liepard - Common 
+- [x] 53 - Venipede - Common 
+- [x] 54 - Whirlipede - Common 
+- [x] 55 - Scolipede - Uncommon 
+- [x] 56 - Druddigon - Uncommon 
+- [x] 57 - Pidgey - Common 
+- [x] 58 - Pidgeotto - Common 
+- [x] 59 - Pidgeot ex - Double Rare 
+- [x] 60 - Tauros - Rare 
+- [x] 61 - Eevee - Common 
+- [x] 62 - Chatot - Common 
+- [x] 63 - Old Amber - Common 
+- [x] 64 - Pokémon Flute - Uncommon 
+- [x] 65 - Mythical Slab - Uncommon 
+- [x] 66 - Budding Expeditioner - Uncommon 
+- [x] 67 - Blue - Uncommon 
+- [x] 68 - Leaf - Uncommon 
+- [x] 69 - Exeggutor - Art Rare 
+- [x] 70 - Serperior - Art Rare 
+- [x] 71 - Salandit - Art Rare 
+- [x] 72 - Vaporeon - Art Rare 
+- [x] 73 - Dedenne - Art Rare 
+- [x] 74 - Marshadow - Art Rare 
+- [ ] 75 - Celebi ex - Super Rare 
+- [ ] 76 - Gyarados ex - Super Rare 
+- [ ] 77 - Mew ex - Super Rare 
+- [ ] 78 - Aerodactyl ex - Super Rare 
+- [ ] 79 - Pidgeot ex - Super Rare 
+- [ ] 80 - Budding Expeditioner - Super Rare 
+- [ ] 81 - Blue - Super Rare 
+- [ ] 82 - Leaf - Super Rare 
+- [ ] 83 - Mew ex - Special Art Rare 
+- [ ] 84 - Aerodactyl ex - Special Art Rare 
+- [x] 85 - Celebi ex - Immersive Rare 
+- [ ] 86 - Mew ex - Crown Rare 

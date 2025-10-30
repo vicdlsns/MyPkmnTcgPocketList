@@ -1,0 +1,105 @@
+- [x] 1 - Hoppip - Common 
+- [x] 2 - Skiploom - Uncommon 
+- [x] 3 - Jumpluff ex - Double Rare 
+- [x] 4 - Sunkern - Common 
+- [x] 5 - Sunflora - Uncommon 
+- [x] 6 - Celebi - Rare 
+- [x] 7 - Durant - Common 
+- [x] 8 - Slugma - Common 
+- [x] 9 - Magcargo - Uncommon 
+- [x] 10 - Entei ex - Double Rare 
+- [x] 11 - Fletchinder - Common 
+- [x] 12 - Talonflame - Uncommon 
+- [x] 13 - Poliwag - Common 
+- [x] 14 - Poliwhirl - Uncommon 
+- [x] 15 - Tentacool - Common 
+- [x] 16 - Tentacruel - Uncommon 
+- [x] 17 - Slowpoke - Common 
+- [x] 18 - Slowking - Uncommon 
+- [x] 19 - Jynx - Common 
+- [x] 20 - Suicune ex - Double Rare 
+- [x] 21 - Feebas - Common 
+- [x] 22 - Milotic - Rare 
+- [x] 23 - Mantyke - Rare 
+- [x] 24 - Cryogonal - Common 
+- [x] 25 - Raikou ex - Double Rare 
+- [x] 26 - Tynamo - Common 
+- [x] 27 - Eelektrik - Common 
+- [x] 28 - Eelektross - Uncommon 
+- [x] 29 - Stunfisk - Common 
+- [x] 30 - Yamper - Common 
+- [x] 31 - Boltund - Rare 
+- [x] 32 - Misdreavus - Common 
+- [x] 33 - Mismagius - Uncommon 
+- [x] 34 - Galarian Corsola - Common 
+- [x] 35 - Galarian Cursola - Rare 
+- [x] 36 - Latias - Rare 
+- [x] 37 - Latios - Rare 
+- [x] 38 - Frillish - Common 
+- [x] 39 - Jellicent - Uncommon 
+- [x] 40 - Diglett - Common 
+- [x] 41 - Dugtrio - Uncommon 
+- [x] 42 - Poliwrath ex - Double Rare 
+- [x] 43 - Phanpy - Common 
+- [x] 44 - Donphan - Uncommon 
+- [x] 45 - Relicanth - Common 
+- [x] 46 - Dwebble - Common 
+- [x] 47 - Crustle - Uncommon 
+- [x] 48 - Seviper - Common 
+- [x] 49 - Zorua - Common 
+- [x] 50 - Zoroark - Rare 
+- [x] 51 - Inkay - Common 
+- [x] 52 - Malamar - Uncommon 
+- [x] 53 - Skrelp - Common 
+- [x] 54 - Dragalge - Common 
+- [x] 55 - Altaria - Rare 
+- [x] 56 - Farfetch’d - Common 
+- [x] 57 - Lickitung - Common 
+- [x] 58 - Lickilicky - Uncommon 
+- [x] 59 - Igglybuff - Rare 
+- [x] 60 - Teddiursa - Common 
+- [x] 61 - Ursaring - Uncommon 
+- [x] 62 - Miltank - Uncommon 
+- [x] 63 - Azurill - Rare 
+- [x] 64 - Swablu - Common 
+- [x] 65 - Zangoose - Uncommon 
+- [x] 66 - Fletchling - Common 
+- [x] 67 - Inflatable Boat - Uncommon 
+- [x] 68 - Memory Light - Uncommon 
+- [x] 69 - Whitney - Uncommon 
+- [x] 70 - Traveling Merchant - Uncommon 
+- [x] 71 - Morty - Uncommon 
+- [ ] 72 - Milotic - Art Rare 
+- [x] 73 - Stunfisk - Art Rare 
+- [ ] 74 - Yamper - Art Rare 
+- [ ] 75 - Latios - Art Rare 
+- [x] 76 - Phanpy - Art Rare 
+- [ ] 77 - Azurill - Art Rare 
+- [ ] 78 - Jumpluff ex - Super Rare 
+- [ ] 79 - Entei ex - Super Rare 
+- [ ] 80 - Suicune ex - Super Rare 
+- [ ] 81 - Raikou ex - Super Rare 
+- [ ] 82 - Poliwrath ex - Super Rare 
+- [ ] 83 - Whitney - Super Rare 
+- [ ] 84 - Traveling Merchant - Super Rare 
+- [ ] 85 - Morty - Super Rare 
+- [x] 86 - Jumpluff ex - Special Art Rare 
+- [ ] 87 - Entei ex - Special Art Rare 
+- [ ] 88 - Raikou ex - Special Art Rare 
+- [ ] 89 - Poliwrath ex - Special Art Rare 
+- [x] 90 - Suicune ex - Immersive Rare 
+- [ ] 91 - Chimchar - Shiny 
+- [ ] 92 - Monferno - Shiny 
+- [ ] 93 - Psyduck - Shiny 
+- [ ] 94 - Golduck - Shiny 
+- [ ] 95 - Krabby - Shiny 
+- [ ] 96 - Kingler - Shiny 
+- [ ] 97 - Pyukumuku - Shiny 
+- [ ] 98 - Gible - Shiny 
+- [ ] 99 - Gabite - Shiny 
+- [ ] 100 - Paldean Wooper - Shiny 
+- [ ] 101 - Infernape ex - Shiny Super Rare 
+- [ ] 102 - Mew ex - Shiny Super Rare 
+- [x] 103 - Garchomp ex - Shiny Super Rare 
+- [x] 104 - Paldean Clodsire ex - Shiny Super Rare 
+- [ ] 105 - Mantyke - Crown Rare 

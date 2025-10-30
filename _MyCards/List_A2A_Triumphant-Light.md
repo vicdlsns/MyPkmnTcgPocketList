@@ -1,0 +1,96 @@
+- [x] 1 - Heracross - Uncommon 
+- [x] 2 - Burmy - Common 
+- [x] 3 - Mothim - Uncommon 
+- [x] 4 - Combee - Common 
+- [x] 5 - Vespiquen - Uncommon 
+- [x] 6 - Cherubi - Common 
+- [x] 7 - Cherrim - Uncommon 
+- [x] 8 - Cherrim - Uncommon 
+- [x] 9 - Carnivine - Rare 
+- [x] 10 - Leafeon ex - Double Rare 
+- [x] 11 - Houndour - Common 
+- [x] 12 - Houndoom - Uncommon 
+- [x] 13 - Heatran - Rare 
+- [x] 14 - Marill - Common 
+- [x] 15 - Azumarill - Common 
+- [x] 16 - Barboach - Common 
+- [x] 17 - Whiscash - Uncommon 
+- [x] 18 - Snorunt - Common 
+- [x] 19 - Froslass - Uncommon 
+- [x] 20 - Snover - Common 
+- [x] 21 - Abomasnow - Rare 
+- [x] 22 - Glaceon ex - Double Rare 
+- [x] 23 - Palkia - Rare 
+- [x] 24 - Phione - Uncommon 
+- [x] 25 - Pikachu - Common 
+- [x] 26 - Raichu - Rare 
+- [x] 27 - Electrike - Common 
+- [x] 28 - Manectric - Uncommon 
+- [x] 29 - Clefairy - Common 
+- [x] 30 - Clefable - Uncommon 
+- [x] 31 - Gastly - Common 
+- [x] 32 - Haunter - Common 
+- [x] 33 - Gengar - Uncommon 
+- [x] 34 - Unown - Uncommon 
+- [x] 35 - Rotom - Rare 
+- [x] 36 - Sudowoodo - Uncommon 
+- [x] 37 - Phanpy - Common 
+- [x] 38 - Donphan - Uncommon 
+- [x] 39 - Larvitar - Common 
+- [x] 40 - Pupitar - Uncommon 
+- [x] 41 - Tyranitar - Rare 
+- [x] 42 - Nosepass - Common 
+- [x] 43 - Meditite - Common 
+- [x] 44 - Medicham - Uncommon 
+- [x] 45 - Gible - Common 
+- [x] 46 - Gabite - Common 
+- [x] 47 - Garchomp ex - Double Rare 
+- [x] 48 - Zubat - Common 
+- [x] 49 - Golbat - Common 
+- [x] 50 - Crobat - Rare 
+- [x] 51 - Croagunk - Common 
+- [x] 52 - Toxicroak - Uncommon 
+- [x] 53 - Magnemite - Common 
+- [x] 54 - Magneton - Common 
+- [x] 55 - Magnezone - Rare 
+- [x] 56 - Mawile - Common 
+- [x] 57 - Probopass ex - Double Rare 
+- [x] 58 - Bronzor - Common 
+- [x] 59 - Bronzong - Uncommon 
+- [x] 60 - Dialga - Rare 
+- [x] 61 - Giratina - Rare 
+- [x] 62 - Eevee - Common 
+- [x] 63 - Snorlax - Uncommon 
+- [x] 64 - Hoothoot - Common 
+- [x] 65 - Noctowl - Uncommon 
+- [x] 66 - Starly - Common 
+- [x] 67 - Staravia - Common 
+- [x] 68 - Staraptor - Uncommon 
+- [x] 69 - Shaymin - Rare 
+- [x] 70 - Arceus - Rare 
+- [x] 71 - Arceus ex - Double Rare 
+- [x] 72 - Irida - Uncommon 
+- [x] 73 - Celestic Town Elder - Uncommon 
+- [x] 74 - Barry - Uncommon 
+- [x] 75 - Adaman - Uncommon 
+- [x] 76 - Houndoom - Art Rare 
+- [x] 77 - Marill - Art Rare 
+- [x] 78 - Unown - Art Rare 
+- [ ] 79 - Sudowoodo - Art Rare 
+- [ ] 80 - Magnemite - Art Rare 
+- [x] 81 - Shaymin - Art Rare 
+- [ ] 82 - Leafeon ex - Super Rare 
+- [x] 83 - Glaceon ex - Super Rare 
+- [ ] 84 - Garchomp ex - Super Rare 
+- [ ] 85 - Probopass ex - Super Rare 
+- [ ] 86 - Arceus ex - Super Rare 
+- [x] 87 - Irida - Super Rare 
+- [ ] 88 - Celestic Town Elder - Super Rare 
+- [ ] 89 - Barry - Super Rare 
+- [ ] 90 - Adaman - Super Rare 
+- [ ] 91 - Leafeon ex - Special Art Rare 
+- [ ] 92 - Glaceon ex - Special Art Rare 
+- [ ] 93 - Garchomp ex - Special Art Rare 
+- [ ] 94 - Probopass ex - Special Art Rare 
+- [ ] 95 - Arceus ex - Immersive Rare 
+- [ ] 96 - Arceus ex - Crown Rare 

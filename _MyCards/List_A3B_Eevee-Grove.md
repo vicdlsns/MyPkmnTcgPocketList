@@ -1,0 +1,107 @@
+- [x] 1 - Tropius - Uncommon 
+- [x] 2 - Leafeon - Rare 
+- [x] 3 - Bounsweet - Common 
+- [x] 4 - Steenee - Common 
+- [x] 5 - Tsareena - Uncommon 
+- [x] 6 - Applin - Common 
+- [x] 7 - Appletun - Uncommon 
+- [x] 8 - Flareon - Rare 
+- [x] 9 - Flareon ex - Double Rare 
+- [x] 10 - Torkoal - Common 
+- [x] 11 - Litten - Common 
+- [x] 12 - Torracat - Common 
+- [x] 13 - Incineroar - Uncommon 
+- [x] 14 - Salandit - Common 
+- [x] 15 - Salazzle - Uncommon 
+- [x] 16 - Vaporeon - Rare 
+- [x] 17 - Glaceon - Rare 
+- [x] 18 - Vanillite - Common 
+- [x] 19 - Vanillish - Common 
+- [x] 20 - Vanilluxe - Uncommon 
+- [x] 21 - Alomomola - Common 
+- [x] 22 - Popplio - Common 
+- [x] 23 - Brionne - Common 
+- [x] 24 - Primarina ex - Double Rare 
+- [x] 25 - Jolteon - Rare 
+- [x] 26 - Joltik - Common 
+- [x] 27 - Galvantula - Uncommon 
+- [x] 28 - Espeon - Rare 
+- [x] 29 - Woobat - Common 
+- [x] 30 - Swoobat - Uncommon 
+- [x] 31 - Swirlix - Common 
+- [x] 32 - Slurpuff - Uncommon 
+- [x] 33 - Sylveon - Rare 
+- [x] 34 - Sylveon ex - Double Rare 
+- [x] 35 - Mimikyu - Uncommon 
+- [x] 36 - Milcery - Common 
+- [x] 37 - Alcremie - Uncommon 
+- [x] 38 - Barboach - Common 
+- [x] 39 - Whiscash - Uncommon 
+- [x] 40 - Mienfoo - Common 
+- [x] 41 - Mienshao - Uncommon 
+- [x] 42 - Carbink - Common 
+- [x] 43 - Umbreon - Rare 
+- [x] 44 - Sableye - Common 
+- [x] 45 - Purrloin - Common 
+- [x] 46 - Liepard - Uncommon 
+- [x] 47 - Mawile - Common 
+- [x] 48 - Togedemaru - Common 
+- [x] 49 - Meltan - Common 
+- [x] 50 - Melmetal - Uncommon 
+- [x] 51 - Dratini - Common 
+- [x] 52 - Dragonair - Common 
+- [x] 53 - Dragonite ex - Double Rare 
+- [x] 54 - Drampa - Uncommon 
+- [x] 55 - Eevee - Common 
+- [x] 56 - Eevee ex - Double Rare 
+- [x] 57 - Snorlax ex - Double Rare 
+- [x] 58 - Aipom - Common 
+- [x] 59 - Ambipom - Uncommon 
+- [x] 60 - Chatot - Common 
+- [x] 61 - Audino - Common 
+- [x] 62 - Minccino - Common 
+- [x] 63 - Cinccino - Uncommon 
+- [x] 64 - Skwovet - Common 
+- [x] 65 - Greedent - Uncommon 
+- [x] 66 - Eevee Bag - Uncommon 
+- [x] 67 - Leftovers - Uncommon 
+- [x] 68 - Hau - Uncommon 
+- [x] 69 - Penny - Uncommon 
+- [x] 70 - Leafeon - Art Rare 
+- [x] 71 - Flareon - Art Rare 
+- [x] 72 - Vaporeon - Art Rare 
+- [x] 73 - Glaceon - Art Rare 
+- [x] 74 - Jolteon - Art Rare 
+- [x] 75 - Espeon - Art Rare 
+- [x] 76 - Sylveon - Art Rare 
+- [x] 77 - Umbreon - Art Rare 
+- [x] 78 - Eevee - Art Rare 
+- [ ] 79 - Flareon ex - Super Rare 
+- [x] 80 - Primarina ex - Super Rare 
+- [ ] 81 - Sylveon ex - Super Rare 
+- [x] 82 - Dragonite ex - Super Rare 
+- [x] 83 - Eevee ex - Super Rare 
+- [ ] 84 - Snorlax ex - Super Rare 
+- [ ] 85 - Hau - Super Rare 
+- [ ] 86 - Penny - Super Rare 
+- [ ] 87 - Flareon ex - Special Art Rare 
+- [ ] 88 - Primarina ex - Special Art Rare 
+- [ ] 89 - Sylveon ex - Special Art Rare 
+- [ ] 90 - Dragonite ex - Special Art Rare 
+- [ ] 91 - Snorlax ex - Special Art Rare 
+- [x] 92 - Eevee ex - Immersive Rare 
+- [ ] 93 - Pinsir - Shiny 
+- [ ] 94 - Lapras - Shiny 
+- [ ] 95 - Voltorb - Shiny 
+- [ ] 96 - Electrode - Shiny 
+- [ ] 97 - Ralts - Shiny 
+- [ ] 98 - Kirlia - Shiny 
+- [ ] 99 - Gardevoir - Shiny 
+- [x] 100 - Ekans - Shiny 
+- [x] 101 - Arbok - Shiny 
+- [ ] 102 - Farfetch’d - Shiny 
+- [x] 103 - Moltres ex - Shiny Super Rare 
+- [ ] 104 - Articuno ex - Shiny Super Rare 
+- [ ] 105 - Zapdos ex - Shiny Super Rare 
+- [x] 106 - Gallade ex - Shiny Super Rare 
+- [x] 107 - Eevee Bag - Crown Rare 

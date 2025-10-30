@@ -1,0 +1,286 @@
+- [ ] 1 - Bulbasaur - Common 
+- [ ] 2 - Ivysaur - Uncommon 
+- [ ] 3 - Venusaur - Rare 
+- [ ] 4 - Venusaur ex - Double Rare 
+- [ ] 5 - Caterpie - Common 
+- [ ] 6 - Metapod - Common 
+- [ ] 7 - Butterfree - Rare 
+- [ ] 8 - Weedle - Common 
+- [ ] 9 - Kakuna - Common 
+- [ ] 10 - Beedrill - Rare 
+- [ ] 11 - Oddish - Common 
+- [ ] 12 - Gloom - Uncommon 
+- [ ] 13 - Vileplume - Rare 
+- [ ] 14 - Paras - Common 
+- [ ] 15 - Parasect - Uncommon 
+- [ ] 16 - Venonat - Common 
+- [ ] 17 - Venomoth - Uncommon 
+- [ ] 18 - Bellsprout - Common 
+- [ ] 19 - Weepinbell - Uncommon 
+- [ ] 20 - Victreebel - Rare 
+- [ ] 21 - Exeggcute - Common 
+- [ ] 22 - Exeggutor - Rare 
+- [ ] 23 - Exeggutor ex - Double Rare 
+- [ ] 24 - Tangela - Common 
+- [ ] 25 - Scyther - Common 
+- [ ] 26 - Pinsir - Uncommon 
+- [ ] 27 - Cottonee - Common 
+- [ ] 28 - Whimsicott - Uncommon 
+- [ ] 29 - Petilil - Common 
+- [ ] 30 - Lilligant - Uncommon 
+- [ ] 31 - Skiddo - Common 
+- [ ] 32 - Gogoat - Common 
+- [ ] 33 - Charmander - Common 
+- [ ] 34 - Charmeleon - Uncommon 
+- [ ] 35 - Charizard - Rare 
+- [ ] 36 - Charizard ex - Double Rare 
+- [ ] 37 - Vulpix - Common 
+- [ ] 38 - Ninetales - Uncommon 
+- [ ] 39 - Growlithe - Common 
+- [ ] 40 - Arcanine - Rare 
+- [ ] 41 - Arcanine ex - Double Rare 
+- [ ] 42 - Ponyta - Common 
+- [ ] 43 - Rapidash - Uncommon 
+- [ ] 44 - Magmar - Common 
+- [ ] 45 - Flareon - Rare 
+- [ ] 46 - Moltres - Rare 
+- [ ] 47 - Moltres ex - Double Rare 
+- [ ] 48 - Heatmor - Common 
+- [ ] 49 - Salandit - Common 
+- [ ] 50 - Salazzle - Common 
+- [ ] 51 - Sizzlipede - Common 
+- [ ] 52 - Centiskorch - Uncommon 
+- [ ] 53 - Squirtle - Common 
+- [ ] 54 - Wartortle - Uncommon 
+- [ ] 55 - Blastoise - Rare 
+- [ ] 56 - Blastoise ex - Double Rare 
+- [ ] 57 - Psyduck - Common 
+- [ ] 58 - Golduck - Uncommon 
+- [ ] 59 - Poliwag - Common 
+- [ ] 60 - Poliwhirl - Uncommon 
+- [ ] 61 - Poliwrath - Rare 
+- [ ] 62 - Tentacool - Common 
+- [ ] 63 - Tentacruel - Uncommon 
+- [ ] 64 - Seel - Common 
+- [ ] 65 - Dewgong - Uncommon 
+- [ ] 66 - Shellder - Common 
+- [ ] 67 - Cloyster - Uncommon 
+- [ ] 68 - Krabby - Common 
+- [ ] 69 - Kingler - Uncommon 
+- [ ] 70 - Horsea - Common 
+- [ ] 71 - Seadra - Uncommon 
+- [ ] 72 - Goldeen - Common 
+- [ ] 73 - Seaking - Common 
+- [ ] 74 - Staryu - Common 
+- [ ] 75 - Starmie - Uncommon 
+- [ ] 76 - Starmie ex - Double Rare 
+- [ ] 77 - Magikarp - Common 
+- [ ] 78 - Gyarados - Rare 
+- [ ] 79 - Lapras - Rare 
+- [ ] 80 - Vaporeon - Rare 
+- [ ] 81 - Omanyte - Uncommon 
+- [ ] 82 - Omastar - Rare 
+- [ ] 83 - Articuno - Rare 
+- [ ] 84 - Articuno ex - Double Rare 
+- [ ] 85 - Ducklett - Common 
+- [ ] 86 - Swanna - Uncommon 
+- [ ] 87 - Froakie - Common 
+- [ ] 88 - Frogadier - Uncommon 
+- [ ] 89 - Greninja - Rare 
+- [ ] 90 - Pyukumuku - Common 
+- [ ] 91 - Bruxish - Uncommon 
+- [ ] 92 - Snom - Common 
+- [ ] 93 - Frosmoth - Uncommon 
+- [ ] 94 - Pikachu - Common 
+- [ ] 95 - Raichu - Rare 
+- [ ] 96 - Pikachu ex - Double Rare 
+- [ ] 97 - Magnemite - Common 
+- [ ] 98 - Magneton - Rare 
+- [ ] 99 - Voltorb - Common 
+- [ ] 100 - Electrode - Uncommon 
+- [ ] 101 - Electabuzz - Common 
+- [ ] 102 - Jolteon - Rare 
+- [ ] 103 - Zapdos - Rare 
+- [ ] 104 - Zapdos ex - Double Rare 
+- [ ] 105 - Blitzle - Common 
+- [ ] 106 - Zebstrika - Uncommon 
+- [ ] 107 - Tynamo - Common 
+- [ ] 108 - Eelektrik - Uncommon 
+- [ ] 109 - Eelektross - Rare 
+- [ ] 110 - Helioptile - Common 
+- [ ] 111 - Heliolisk - Common 
+- [ ] 112 - Pincurchin - Uncommon 
+- [ ] 113 - Clefairy - Common 
+- [ ] 114 - Clefable - Uncommon 
+- [ ] 115 - Abra - Common 
+- [ ] 116 - Kadabra - Uncommon 
+- [ ] 117 - Alakazam - Rare 
+- [ ] 118 - Slowpoke - Common 
+- [ ] 119 - Slowbro - Uncommon 
+- [ ] 120 - Gastly - Common 
+- [ ] 121 - Haunter - Uncommon 
+- [ ] 122 - Gengar - Rare 
+- [ ] 123 - Gengar ex - Double Rare 
+- [ ] 124 - Drowzee - Common 
+- [ ] 125 - Hypno - Rare 
+- [ ] 126 - Mr. Mime - Uncommon 
+- [ ] 127 - Jynx - Common 
+- [ ] 128 - Mewtwo - Rare 
+- [ ] 129 - Mewtwo ex - Double Rare 
+- [ ] 130 - Ralts - Common 
+- [ ] 131 - Kirlia - Uncommon 
+- [ ] 132 - Gardevoir - Rare 
+- [ ] 133 - Woobat - Common 
+- [ ] 134 - Swoobat - Common 
+- [ ] 135 - Golett - Common 
+- [ ] 136 - Golurk - Uncommon 
+- [ ] 137 - Sandshrew - Common 
+- [ ] 138 - Sandslash - Uncommon 
+- [ ] 139 - Diglett - Common 
+- [ ] 140 - Dugtrio - Uncommon 
+- [ ] 141 - Mankey - Common 
+- [ ] 142 - Primeape - Uncommon 
+- [ ] 143 - Machop - Common 
+- [ ] 144 - Machoke - Uncommon 
+- [ ] 145 - Machamp - Rare 
+- [ ] 146 - Machamp ex - Double Rare 
+- [ ] 147 - Geodude - Common 
+- [ ] 148 - Graveler - Uncommon 
+- [ ] 149 - Golem - Rare 
+- [ ] 150 - Onix - Uncommon 
+- [ ] 151 - Cubone - Common 
+- [ ] 152 - Marowak - Uncommon 
+- [ ] 153 - Marowak ex - Double Rare 
+- [ ] 154 - Hitmonlee - Common 
+- [ ] 155 - Hitmonchan - Common 
+- [ ] 156 - Rhyhorn - Common 
+- [ ] 157 - Rhydon - Uncommon 
+- [ ] 158 - Kabuto - Uncommon 
+- [ ] 159 - Kabutops - Rare 
+- [ ] 160 - Mienfoo - Common 
+- [ ] 161 - Mienshao - Uncommon 
+- [ ] 162 - Clobbopus - Common 
+- [ ] 163 - Grapploct - Uncommon 
+- [ ] 164 - Ekans - Common 
+- [ ] 165 - Arbok - Uncommon 
+- [ ] 166 - Nidoran♀ - Common 
+- [ ] 167 - Nidorina - Uncommon 
+- [ ] 168 - Nidoqueen - Rare 
+- [ ] 169 - Nidoran♂ - Common 
+- [ ] 170 - Nidorino - Uncommon 
+- [ ] 171 - Nidoking - Rare 
+- [ ] 172 - Zubat - Common 
+- [ ] 173 - Golbat - Uncommon 
+- [ ] 174 - Grimer - Common 
+- [ ] 175 - Muk - Rare 
+- [ ] 176 - Koffing - Common 
+- [ ] 177 - Weezing - Rare 
+- [ ] 178 - Mawile - Common 
+- [ ] 179 - Pawniard - Common 
+- [ ] 180 - Bisharp - Uncommon 
+- [ ] 181 - Meltan - Common 
+- [ ] 182 - Melmetal - Rare 
+- [ ] 183 - Dratini - Common 
+- [ ] 184 - Dragonair - Uncommon 
+- [ ] 185 - Dragonite - Rare 
+- [ ] 186 - Pidgey - Common 
+- [ ] 187 - Pidgeotto - Common 
+- [ ] 188 - Pidgeot - Rare 
+- [ ] 189 - Rattata - Common 
+- [ ] 190 - Raticate - Common 
+- [ ] 191 - Spearow - Common 
+- [ ] 192 - Fearow - Common 
+- [ ] 193 - Jigglypuff - Common 
+- [ ] 194 - Wigglytuff - Common 
+- [ ] 195 - Wigglytuff ex - Double Rare 
+- [ ] 196 - Meowth - Common 
+- [ ] 197 - Persian - Uncommon 
+- [ ] 198 - Farfetch’d - Common 
+- [ ] 199 - Doduo - Common 
+- [ ] 200 - Dodrio - Uncommon 
+- [ ] 201 - Lickitung - Uncommon 
+- [ ] 202 - Chansey - Uncommon 
+- [ ] 203 - Kangaskhan - Rare 
+- [ ] 204 - Tauros - Uncommon 
+- [ ] 205 - Ditto - Rare 
+- [ ] 206 - Eevee - Common 
+- [ ] 207 - Eevee - Common 
+- [ ] 208 - Eevee - Common 
+- [ ] 209 - Porygon - Uncommon 
+- [ ] 210 - Aerodactyl - Rare 
+- [ ] 211 - Snorlax - Rare 
+- [ ] 212 - Minccino - Common 
+- [ ] 213 - Cinccino - Uncommon 
+- [ ] 214 - Wooloo - Common 
+- [ ] 215 - Dubwool - Common 
+- [ ] 216 - Helix Fossil - Common 
+- [ ] 217 - Dome Fossil - Common 
+- [ ] 218 - Old Amber - Common 
+- [ ] 219 - Erika - Uncommon 
+- [ ] 220 - Misty - Uncommon 
+- [ ] 221 - Blaine - Uncommon 
+- [ ] 222 - Koga - Uncommon 
+- [ ] 223 - Giovanni - Uncommon 
+- [ ] 224 - Brock - Uncommon 
+- [ ] 225 - Sabrina - Uncommon 
+- [ ] 226 - Lt. Surge - Uncommon 
+- [ ] 227 - Bulbasaur - Art Rare 
+- [ ] 228 - Gloom - Art Rare 
+- [ ] 229 - Pinsir - Art Rare 
+- [ ] 230 - Charmander - Art Rare 
+- [ ] 231 - Rapidash - Art Rare 
+- [ ] 232 - Squirtle - Art Rare 
+- [ ] 233 - Gyarados - Art Rare 
+- [ ] 234 - Lapras - Art Rare 
+- [ ] 235 - Electrode - Art Rare 
+- [ ] 236 - Alakazam - Art Rare 
+- [ ] 237 - Slowpoke - Art Rare 
+- [ ] 238 - Diglett - Art Rare 
+- [ ] 239 - Cubone - Art Rare 
+- [ ] 240 - Nidoqueen - Art Rare 
+- [ ] 241 - Nidoking - Art Rare 
+- [ ] 242 - Golbat - Art Rare 
+- [ ] 243 - Weezing - Art Rare 
+- [ ] 244 - Dragonite - Art Rare 
+- [ ] 245 - Pidgeot - Art Rare 
+- [ ] 246 - Meowth - Art Rare 
+- [ ] 247 - Ditto - Art Rare 
+- [ ] 248 - Eevee - Art Rare 
+- [ ] 249 - Porygon - Art Rare 
+- [ ] 250 - Snorlax - Art Rare 
+- [ ] 251 - Venusaur ex - Super Rare 
+- [ ] 252 - Exeggutor ex - Super Rare 
+- [ ] 253 - Charizard ex - Super Rare 
+- [ ] 254 - Arcanine ex - Super Rare 
+- [ ] 255 - Moltres ex - Super Rare 
+- [ ] 256 - Blastoise ex - Super Rare 
+- [ ] 257 - Starmie ex - Super Rare 
+- [ ] 258 - Articuno ex - Super Rare 
+- [ ] 259 - Pikachu ex - Super Rare 
+- [ ] 260 - Zapdos ex - Super Rare 
+- [ ] 261 - Gengar ex - Super Rare 
+- [ ] 262 - Mewtwo ex - Super Rare 
+- [ ] 263 - Machamp ex - Super Rare 
+- [ ] 264 - Marowak ex - Super Rare 
+- [ ] 265 - Wigglytuff ex - Super Rare 
+- [ ] 266 - Erika - Super Rare 
+- [ ] 267 - Misty - Super Rare 
+- [ ] 268 - Blaine - Super Rare 
+- [ ] 269 - Koga - Super Rare 
+- [ ] 270 - Giovanni - Super Rare 
+- [ ] 271 - Brock - Super Rare 
+- [ ] 272 - Sabrina - Super Rare 
+- [ ] 273 - Lt. Surge - Super Rare 
+- [ ] 274 - Moltres ex - Special Art Rare 
+- [ ] 275 - Articuno ex - Special Art Rare 
+- [ ] 276 - Zapdos ex - Special Art Rare 
+- [ ] 277 - Gengar ex - Special Art Rare 
+- [ ] 278 - Machamp ex - Special Art Rare 
+- [ ] 279 - Wigglytuff ex - Special Art Rare 
+- [ ] 280 - Charizard ex - Immersive Rare 
+- [ ] 281 - Pikachu ex - Immersive Rare 
+- [ ] 282 - Mewtwo ex - Immersive Rare 
+- [ ] 283 - Mew - Immersive Rare 
+- [ ] 284 - Charizard ex - Crown Rare 
+- [ ] 285 - Pikachu ex - Crown Rare 
+- [ ] 286 - Mewtwo ex - Crown Rare 

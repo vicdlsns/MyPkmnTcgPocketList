@@ -1,0 +1,379 @@
+- [ ] 1 - Bulbasaur - Common 
+- [ ] 2 - Bulbasaur - Foil Common 
+- [ ] 3 - Ivysaur - Uncommon 
+- [ ] 4 - Ivysaur - Foil Uncommon 
+- [ ] 5 - Venusaur ex - Double Rare 
+- [ ] 6 - Weedle - Common 
+- [ ] 7 - Weedle - Foil Common 
+- [ ] 8 - Kakuna - Uncommon 
+- [ ] 9 - Kakuna - Foil Uncommon 
+- [ ] 10 - Beedrill ex - Double Rare 
+- [ ] 11 - Exeggcute - Common 
+- [ ] 12 - Exeggcute - Foil Common 
+- [ ] 13 - Exeggutor ex - Double Rare 
+- [ ] 14 - Hoppip - Common 
+- [ ] 15 - Hoppip - Foil Common 
+- [ ] 16 - Skiploom - Uncommon 
+- [ ] 17 - Skiploom - Foil Uncommon 
+- [ ] 18 - Jumpluff - Rare 
+- [ ] 19 - Jumpluff - Foil Rare 
+- [ ] 20 - Yanma - Common 
+- [ ] 21 - Yanma - Foil Common 
+- [ ] 22 - Yanmega ex - Double Rare 
+- [ ] 23 - Shuckle ex - Double Rare 
+- [ ] 24 - Celebi ex - Double Rare 
+- [ ] 25 - Cherubi - Common 
+- [ ] 26 - Cherubi - Foil Common 
+- [ ] 27 - Cherrim - Uncommon 
+- [ ] 28 - Cherrim - Foil Uncommon 
+- [ ] 29 - Leafeon ex - Double Rare 
+- [ ] 30 - Shaymin - Rare 
+- [ ] 31 - Shaymin - Foil Rare 
+- [ ] 32 - Snivy - Common 
+- [ ] 33 - Snivy - Foil Common 
+- [ ] 34 - Servine - Uncommon 
+- [ ] 35 - Servine - Foil Uncommon 
+- [ ] 36 - Serperior - Rare 
+- [ ] 37 - Serperior - Foil Rare 
+- [ ] 38 - Rowlet - Common 
+- [ ] 39 - Rowlet - Foil Common 
+- [ ] 40 - Dartrix - Uncommon 
+- [ ] 41 - Dartrix - Foil Uncommon 
+- [ ] 42 - Decidueye ex - Double Rare 
+- [ ] 43 - Dhelmise ex - Double Rare 
+- [ ] 44 - Buzzwole ex - Double Rare 
+- [ ] 45 - Pheromosa - Uncommon 
+- [ ] 46 - Pheromosa - Foil Uncommon 
+- [ ] 47 - Kartana - Common 
+- [ ] 48 - Kartana - Foil Common 
+- [ ] 49 - Sprigatito - Common 
+- [ ] 50 - Sprigatito - Foil Common 
+- [ ] 51 - Floragato - Uncommon 
+- [ ] 52 - Floragato - Foil Uncommon 
+- [ ] 53 - Meowscarada - Rare 
+- [ ] 54 - Meowscarada - Foil Rare 
+- [ ] 55 - Charmander - Common 
+- [ ] 56 - Charmander - Foil Common 
+- [ ] 57 - Charmeleon - Uncommon 
+- [ ] 58 - Charmeleon - Foil Uncommon 
+- [ ] 59 - Charizard ex - Double Rare 
+- [ ] 60 - Charizard ex - Double Rare 
+- [ ] 61 - Growlithe - Common 
+- [ ] 62 - Growlithe - Foil Common 
+- [ ] 63 - Arcanine ex - Double Rare 
+- [ ] 64 - Flareon - Rare 
+- [ ] 65 - Flareon - Foil Rare 
+- [ ] 66 - Flareon ex - Double Rare 
+- [ ] 67 - Moltres ex - Double Rare 
+- [ ] 68 - Ho-Oh ex - Double Rare 
+- [ ] 69 - Torkoal - Common 
+- [ ] 70 - Torkoal - Foil Common 
+- [ ] 71 - Chimchar - Common 
+- [ ] 72 - Chimchar - Foil Common 
+- [ ] 73 - Monferno - Uncommon 
+- [ ] 74 - Monferno - Foil Uncommon 
+- [ ] 75 - Infernape ex - Double Rare 
+- [ ] 76 - Heatran - Rare 
+- [ ] 77 - Heatran - Foil Rare 
+- [ ] 78 - Litten - Common 
+- [ ] 79 - Litten - Foil Common 
+- [ ] 80 - Torracat - Uncommon 
+- [ ] 81 - Torracat - Foil Uncommon 
+- [ ] 82 - Incineroar ex - Double Rare 
+- [ ] 83 - Squirtle - Common 
+- [ ] 84 - Squirtle - Foil Common 
+- [ ] 85 - Wartortle - Uncommon 
+- [ ] 86 - Wartortle - Foil Uncommon 
+- [ ] 87 - Blastoise ex - Double Rare 
+- [ ] 88 - Horsea - Common 
+- [ ] 89 - Horsea - Foil Common 
+- [ ] 90 - Seadra - Uncommon 
+- [ ] 91 - Seadra - Foil Uncommon 
+- [ ] 92 - Kingdra ex - Double Rare 
+- [ ] 93 - Staryu - Common 
+- [ ] 94 - Staryu - Foil Common 
+- [ ] 95 - Starmie ex - Double Rare 
+- [ ] 96 - Magikarp - Common 
+- [ ] 97 - Magikarp - Foil Common 
+- [ ] 98 - Gyarados ex - Double Rare 
+- [ ] 99 - Vaporeon - Rare 
+- [ ] 100 - Vaporeon - Foil Rare 
+- [ ] 101 - Articuno ex - Double Rare 
+- [ ] 102 - Corphish - Common 
+- [ ] 103 - Corphish - Foil Common 
+- [ ] 104 - Crawdaunt - Rare 
+- [ ] 105 - Crawdaunt - Foil Rare 
+- [ ] 106 - Glaceon ex - Double Rare 
+- [ ] 107 - Palkia ex - Double Rare 
+- [ ] 108 - Manaphy - Uncommon 
+- [ ] 109 - Manaphy - Foil Uncommon 
+- [ ] 110 - Froakie - Common 
+- [ ] 111 - Froakie - Foil Common 
+- [ ] 112 - Frogadier - Uncommon 
+- [ ] 113 - Frogadier - Foil Uncommon 
+- [ ] 114 - Greninja - Rare 
+- [ ] 115 - Greninja - Foil Rare 
+- [ ] 116 - Popplio - Common 
+- [ ] 117 - Popplio - Foil Common 
+- [ ] 118 - Brionne - Common 
+- [ ] 119 - Brionne - Foil Common 
+- [ ] 120 - Primarina ex - Double Rare 
+- [ ] 121 - Crabominable ex - Double Rare 
+- [ ] 122 - Wishiwashi - Common 
+- [ ] 123 - Wishiwashi - Foil Common 
+- [ ] 124 - Wishiwashi ex - Double Rare 
+- [ ] 125 - Wiglett - Common 
+- [ ] 126 - Wiglett - Foil Common 
+- [ ] 127 - Wugtrio ex - Double Rare 
+- [ ] 128 - Pikachu - Common 
+- [ ] 129 - Pikachu - Foil Common 
+- [ ] 130 - Alolan Raichu ex - Double Rare 
+- [ ] 131 - Pikachu ex - Double Rare 
+- [ ] 132 - Pikachu ex - Double Rare 
+- [ ] 133 - Magnemite - Common 
+- [ ] 134 - Magnemite - Foil Common 
+- [ ] 135 - Magneton - Rare 
+- [ ] 136 - Magneton - Foil Rare 
+- [ ] 137 - Magnezone - Rare 
+- [ ] 138 - Magnezone - Foil Rare 
+- [ ] 139 - Zapdos ex - Double Rare 
+- [ ] 140 - Chinchou - Common 
+- [ ] 141 - Chinchou - Foil Common 
+- [ ] 142 - Lanturn ex - Double Rare 
+- [ ] 143 - Pachirisu - Uncommon 
+- [ ] 144 - Pachirisu - Foil Uncommon 
+- [ ] 145 - Pachirisu ex - Double Rare 
+- [ ] 146 - Oricorio - Rare 
+- [ ] 147 - Oricorio - Foil Rare 
+- [ ] 148 - Tapu Koko ex - Double Rare 
+- [ ] 149 - Zeraora - Rare 
+- [ ] 150 - Zeraora - Foil Rare 
+- [ ] 151 - Gastly - Common 
+- [ ] 152 - Gastly - Foil Common 
+- [ ] 153 - Haunter - Uncommon 
+- [ ] 154 - Haunter - Foil Uncommon 
+- [ ] 155 - Gengar ex - Double Rare 
+- [ ] 156 - Jynx - Common 
+- [ ] 157 - Jynx - Foil Common 
+- [ ] 158 - Mewtwo ex - Double Rare 
+- [ ] 159 - Mew ex - Double Rare 
+- [ ] 160 - Espeon ex - Double Rare 
+- [ ] 161 - Misdreavus - Common 
+- [ ] 162 - Misdreavus - Foil Common 
+- [ ] 163 - Mismagius ex - Double Rare 
+- [ ] 164 - Ralts - Common 
+- [ ] 165 - Ralts - Foil Common 
+- [ ] 166 - Kirlia - Common 
+- [ ] 167 - Kirlia - Foil Common 
+- [ ] 168 - Gardevoir - Rare 
+- [ ] 169 - Gardevoir - Foil Rare 
+- [ ] 170 - Giratina - Rare 
+- [ ] 171 - Giratina - Foil Rare 
+- [ ] 172 - Giratina ex - Double Rare 
+- [ ] 173 - Swirlix - Common 
+- [ ] 174 - Swirlix - Foil Common 
+- [ ] 175 - Slurpuff - Uncommon 
+- [ ] 176 - Slurpuff - Foil Uncommon 
+- [ ] 177 - Sylveon ex - Double Rare 
+- [ ] 178 - Oricorio - Uncommon 
+- [ ] 179 - Oricorio - Foil Uncommon 
+- [ ] 180 - Cosmog - Common 
+- [ ] 181 - Cosmog - Foil Common 
+- [ ] 182 - Cosmoem - Uncommon 
+- [ ] 183 - Cosmoem - Foil Uncommon 
+- [ ] 184 - Lunala ex - Double Rare 
+- [ ] 185 - Milcery - Common 
+- [ ] 186 - Milcery - Foil Common 
+- [ ] 187 - Alcremie - Uncommon 
+- [ ] 188 - Alcremie - Foil Uncommon 
+- [ ] 189 - Machop - Common 
+- [ ] 190 - Machop - Foil Common 
+- [ ] 191 - Machoke - Uncommon 
+- [ ] 192 - Machoke - Foil Uncommon 
+- [ ] 193 - Machamp ex - Double Rare 
+- [ ] 194 - Cubone - Common 
+- [ ] 195 - Cubone - Foil Common 
+- [ ] 196 - Marowak ex - Double Rare 
+- [ ] 197 - Aerodactyl ex - Double Rare 
+- [ ] 198 - Sudowoodo - Uncommon 
+- [ ] 199 - Sudowoodo - Foil Uncommon 
+- [ ] 200 - Phanpy - Common 
+- [ ] 201 - Phanpy - Foil Common 
+- [ ] 202 - Donphan ex - Double Rare 
+- [ ] 203 - Nosepass - Common 
+- [ ] 204 - Nosepass - Foil Common 
+- [ ] 205 - Gible - Common 
+- [ ] 206 - Gible - Foil Common 
+- [ ] 207 - Gabite - Common 
+- [ ] 208 - Gabite - Foil Common 
+- [ ] 209 - Garchomp ex - Double Rare 
+- [ ] 210 - Riolu - Common 
+- [ ] 211 - Riolu - Foil Common 
+- [ ] 212 - Lucario - Rare 
+- [ ] 213 - Lucario - Foil Rare 
+- [ ] 214 - Lucario ex - Double Rare 
+- [ ] 215 - Gallade ex - Double Rare 
+- [ ] 216 - Drilbur - Common 
+- [ ] 217 - Drilbur - Foil Common 
+- [ ] 218 - Crabrawler - Common 
+- [ ] 219 - Crabrawler - Foil Common 
+- [ ] 220 - Rockruff - Common 
+- [ ] 221 - Rockruff - Foil Common 
+- [ ] 222 - Lycanroc ex - Double Rare 
+- [ ] 223 - Passimian ex - Double Rare 
+- [ ] 224 - Marshadow - Rare 
+- [ ] 225 - Marshadow - Foil Rare 
+- [ ] 226 - Zubat - Common 
+- [ ] 227 - Zubat - Foil Common 
+- [ ] 228 - Golbat - Common 
+- [ ] 229 - Golbat - Foil Common 
+- [ ] 230 - Crobat - Rare 
+- [ ] 231 - Crobat - Foil Rare 
+- [ ] 232 - Crobat ex - Double Rare 
+- [ ] 233 - Alolan Grimer - Common 
+- [ ] 234 - Alolan Grimer - Foil Common 
+- [ ] 235 - Alolan Muk ex - Double Rare 
+- [ ] 236 - Paldean Wooper - Common 
+- [ ] 237 - Paldean Wooper - Foil Common 
+- [ ] 238 - Paldean Clodsire ex - Double Rare 
+- [ ] 239 - Umbreon - Rare 
+- [ ] 240 - Umbreon - Foil Rare 
+- [ ] 241 - Umbreon ex - Double Rare 
+- [ ] 242 - Sneasel - Common 
+- [ ] 243 - Sneasel - Foil Common 
+- [ ] 244 - Weavile ex - Double Rare 
+- [ ] 245 - Darkrai ex - Double Rare 
+- [ ] 246 - Nihilego - Rare 
+- [ ] 247 - Nihilego - Foil Rare 
+- [ ] 248 - Guzzlord ex - Double Rare 
+- [ ] 249 - Alolan Diglett - Common 
+- [ ] 250 - Alolan Diglett - Foil Common 
+- [ ] 251 - Alolan Dugtrio ex - Double Rare 
+- [ ] 252 - Skarmory ex - Double Rare 
+- [ ] 253 - Probopass ex - Double Rare 
+- [ ] 254 - Dialga ex - Double Rare 
+- [ ] 255 - Excadrill - Uncommon 
+- [ ] 256 - Excadrill - Foil Uncommon 
+- [ ] 257 - Klefki - Rare 
+- [ ] 258 - Klefki - Foil Rare 
+- [ ] 259 - Solgaleo ex - Double Rare 
+- [ ] 260 - Magearna - Rare 
+- [ ] 261 - Magearna - Foil Rare 
+- [ ] 262 - Tinkatink - Common 
+- [ ] 263 - Tinkatink - Foil Common 
+- [ ] 264 - Tinkatuff - Uncommon 
+- [ ] 265 - Tinkatuff - Foil Uncommon 
+- [ ] 266 - Tinkaton ex - Double Rare 
+- [ ] 267 - Dratini - Common 
+- [ ] 268 - Dratini - Foil Common 
+- [ ] 269 - Dragonair - Common 
+- [ ] 270 - Dragonair - Foil Common 
+- [ ] 271 - Dragonite ex - Double Rare 
+- [ ] 272 - Pidgey - Common 
+- [ ] 273 - Pidgey - Foil Common 
+- [ ] 274 - Pidgeotto - Common 
+- [ ] 275 - Pidgeotto - Foil Common 
+- [ ] 276 - Pidgeot ex - Double Rare 
+- [ ] 277 - Jigglypuff - Common 
+- [ ] 278 - Jigglypuff - Foil Common 
+- [ ] 279 - Wigglytuff ex - Double Rare 
+- [ ] 280 - Farfetch’d - Common 
+- [ ] 281 - Farfetch’d - Foil Common 
+- [ ] 282 - Lickitung - Common 
+- [ ] 283 - Lickitung - Foil Common 
+- [ ] 284 - Lickilicky ex - Double Rare 
+- [ ] 285 - Eevee - Common 
+- [ ] 286 - Eevee - Foil Common 
+- [ ] 287 - Eevee ex - Double Rare 
+- [ ] 288 - Snorlax ex - Double Rare 
+- [ ] 289 - Lugia ex - Double Rare 
+- [ ] 290 - Skitty - Common 
+- [ ] 291 - Skitty - Foil Common 
+- [ ] 292 - Delcatty - Uncommon 
+- [ ] 293 - Delcatty - Foil Uncommon 
+- [ ] 294 - Bidoof - Common 
+- [ ] 295 - Bidoof - Foil Common 
+- [ ] 296 - Bibarel ex - Double Rare 
+- [ ] 297 - Shaymin - Rare 
+- [ ] 298 - Shaymin - Foil Rare 
+- [ ] 299 - Arceus ex - Double Rare 
+- [ ] 300 - Type: Null - Uncommon 
+- [ ] 301 - Type: Null - Foil Uncommon 
+- [ ] 302 - Silvally - Rare 
+- [ ] 303 - Silvally - Foil Rare 
+- [ ] 304 - Celesteela - Rare 
+- [ ] 305 - Celesteela - Foil Rare 
+- [ ] 306 - Cyclizar - Uncommon 
+- [ ] 307 - Cyclizar - Foil Uncommon 
+- [ ] 308 - Eevee Bag - Uncommon 
+- [ ] 309 - Eevee Bag - Foil Uncommon 
+- [ ] 310 - Elemental Switch - Uncommon 
+- [ ] 311 - Elemental Switch - Foil Uncommon 
+- [ ] 312 - Old Amber - Common 
+- [ ] 313 - Old Amber - Foil Common 
+- [ ] 314 - Rare Candy - Uncommon 
+- [ ] 315 - Rare Candy - Foil Uncommon 
+- [ ] 316 - Pokémon Communication - Uncommon 
+- [ ] 317 - Pokémon Communication - Foil Uncommon 
+- [ ] 318 - Electrical Cord - Uncommon 
+- [ ] 319 - Electrical Cord - Foil Uncommon 
+- [ ] 320 - Giant Cape - Uncommon 
+- [ ] 321 - Giant Cape - Foil Uncommon 
+- [ ] 322 - Rocky Helmet - Uncommon 
+- [ ] 323 - Rocky Helmet - Foil Uncommon 
+- [ ] 324 - Leaf Cape - Uncommon 
+- [ ] 325 - Leaf Cape - Foil Uncommon 
+- [ ] 326 - Cyrus - Uncommon 
+- [ ] 327 - Cyrus - Foil Uncommon 
+- [ ] 328 - Erika - Uncommon 
+- [ ] 329 - Erika - Foil Uncommon 
+- [ ] 330 - Irida - Uncommon 
+- [ ] 331 - Irida - Foil Uncommon 
+- [ ] 332 - Lyra - Uncommon 
+- [ ] 333 - Lyra - Foil Uncommon 
+- [ ] 334 - Giovanni - Uncommon 
+- [ ] 335 - Giovanni - Foil Uncommon 
+- [ ] 336 - Silver - Uncommon 
+- [ ] 337 - Silver - Foil Uncommon 
+- [ ] 338 - Sabrina - Uncommon 
+- [ ] 339 - Sabrina - Foil Uncommon 
+- [ ] 340 - Iono - Uncommon 
+- [ ] 341 - Iono - Foil Uncommon 
+- [ ] 342 - Dawn - Uncommon 
+- [ ] 343 - Dawn - Foil Uncommon 
+- [ ] 344 - Mars - Uncommon 
+- [ ] 345 - Mars - Foil Uncommon 
+- [ ] 346 - Leaf - Uncommon 
+- [ ] 347 - Leaf - Foil Uncommon 
+- [ ] 348 - Lillie - Uncommon 
+- [ ] 349 - Lillie - Foil Uncommon 
+- [ ] 350 - Lusamine - Uncommon 
+- [ ] 351 - Lusamine - Foil Uncommon 
+- [ ] 352 - Red - Uncommon 
+- [ ] 353 - Red - Foil Uncommon 
+- [ ] 354 - Floragato - Art Rare 
+- [ ] 355 - Crawdaunt - Art Rare 
+- [ ] 356 - Greninja - Art Rare 
+- [ ] 357 - Gardevoir - Art Rare 
+- [ ] 358 - Slurpuff - Art Rare 
+- [ ] 359 - Farfetch’d - Art Rare 
+- [ ] 360 - Buzzwole ex - Super Rare 
+- [ ] 361 - Charizard ex - Super Rare 
+- [ ] 362 - Ho-Oh ex - Super Rare 
+- [ ] 363 - Palkia ex - Super Rare 
+- [ ] 364 - Pikachu ex - Super Rare 
+- [ ] 365 - Mewtwo ex - Super Rare 
+- [ ] 366 - Mew ex - Super Rare 
+- [ ] 367 - Lunala ex - Super Rare 
+- [ ] 368 - Dialga ex - Super Rare 
+- [ ] 369 - Solgaleo ex - Super Rare 
+- [ ] 370 - Eevee ex - Super Rare 
+- [ ] 371 - Lugia ex - Super Rare 
+- [ ] 372 - Arceus ex - Super Rare 
+- [ ] 373 - Professor’s Research - Super Rare 
+- [ ] 374 - Lillie - Super Rare 
+- [ ] 375 - Lusamine - Super Rare 
+- [ ] 376 - Pikachu ex - Immersive Rare 
+- [ ] 377 - Giratina ex - Shiny Super Rare 
+- [ ] 378 - Darkrai ex - Shiny Super Rare 
+- [ ] 379 - Rare Candy - Crown Rare 

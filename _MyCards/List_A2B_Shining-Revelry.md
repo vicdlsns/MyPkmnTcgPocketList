@@ -1,0 +1,111 @@
+- [x] 1 - Weedle - Common 
+- [x] 2 - Kakuna - Uncommon 
+- [x] 3 - Beedrill ex - Double Rare 
+- [x] 4 - Pinsir - Common 
+- [x] 5 - Sprigatito - Common 
+- [x] 6 - Floragato - Uncommon 
+- [x] 7 - Meowscarada - Rare 
+- [x] 8 - Charmander - Common 
+- [x] 9 - Charmeleon - Uncommon 
+- [x] 10 - Charizard ex - Double Rare 
+- [x] 11 - Magmar - Common 
+- [x] 12 - Magmortar - Rare 
+- [x] 13 - Paldean Tauros - Uncommon 
+- [x] 14 - Tentacool - Common 
+- [x] 15 - Tentacruel - Uncommon 
+- [x] 16 - Buizel - Common 
+- [x] 17 - Floatzel - Uncommon 
+- [x] 18 - Wiglett - Common 
+- [x] 19 - Wugtrio ex - Double Rare 
+- [x] 20 - Dondozo - Rare 
+- [x] 21 - Tatsugiri - Uncommon 
+- [x] 22 - Pikachu ex - Double Rare 
+- [x] 23 - Voltorb - Common 
+- [x] 24 - Electrode - Uncommon 
+- [x] 25 - Pachirisu - Uncommon 
+- [x] 26 - Pawmi - Common 
+- [x] 27 - Pawmo - Uncommon 
+- [x] 28 - Pawmot - Rare 
+- [x] 29 - Abra - Common 
+- [x] 30 - Kadabra - Uncommon 
+- [x] 31 - Alakazam - Rare 
+- [x] 32 - Mr. Mime - Common 
+- [x] 33 - Drifloon - Common 
+- [x] 34 - Drifblim - Uncommon 
+- [x] 35 - Giratina ex - Double Rare 
+- [x] 36 - Gimmighoul - Common 
+- [x] 37 - Machop - Common 
+- [x] 38 - Machoke - Common 
+- [x] 39 - Machamp - Rare 
+- [x] 40 - Hitmonlee - Common 
+- [x] 41 - Hitmonchan - Common 
+- [x] 42 - Riolu - Common 
+- [x] 43 - Lucario ex - Double Rare 
+- [x] 44 - Flamigo - Uncommon 
+- [x] 45 - Ekans - Common 
+- [x] 46 - Arbok - Uncommon 
+- [x] 47 - Paldean Wooper - Common 
+- [x] 48 - Paldean Clodsire ex - Double Rare 
+- [x] 49 - Spiritomb - Uncommon 
+- [x] 50 - Shroodle - Common 
+- [x] 51 - Grafaiai - Rare 
+- [x] 52 - Tinkatink - Common 
+- [x] 53 - Tinkatuff - Uncommon 
+- [x] 54 - Tinkaton ex - Double Rare 
+- [x] 55 - Varoom - Common 
+- [x] 56 - Revavroom - Uncommon 
+- [x] 57 - Gholdengo - Rare 
+- [x] 58 - Rattata - Common 
+- [x] 59 - Raticate - Common 
+- [x] 60 - Jigglypuff - Common 
+- [x] 61 - Wigglytuff - Rare 
+- [x] 62 - Lickitung - Common 
+- [x] 63 - Lickilicky - Common 
+- [x] 64 - Bidoof - Common 
+- [x] 65 - Bibarel ex - Double Rare 
+- [x] 66 - Buneary - Common 
+- [x] 67 - Lopunny - Common 
+- [x] 68 - Cyclizar - Uncommon 
+- [x] 69 - Iono - Uncommon 
+- [x] 70 - Pokémon Center Lady - Uncommon 
+- [x] 71 - Red - Uncommon 
+- [x] 72 - Team Rocket Grunt - Uncommon 
+- [x] 73 - Meowscarada - Art Rare 
+- [x] 74 - Buizel - Art Rare 
+- [x] 75 - Tatsugiri - Art Rare 
+- [x] 76 - Grafaiai - Art Rare 
+- [x] 77 - Gholdengo - Art Rare 
+- [x] 78 - Wigglytuff - Art Rare 
+- [x] 79 - Beedrill ex - Super Rare 
+- [ ] 80 - Charizard ex - Super Rare 
+- [ ] 81 - Wugtrio ex - Super Rare 
+- [ ] 82 - Pikachu ex - Super Rare 
+- [ ] 83 - Giratina ex - Super Rare 
+- [ ] 84 - Lucario ex - Super Rare 
+- [x] 85 - Paldean Clodsire ex - Super Rare 
+- [ ] 86 - Tinkaton ex - Super Rare 
+- [ ] 87 - Bibarel ex - Super Rare 
+- [ ] 88 - Iono - Super Rare 
+- [ ] 89 - Pokémon Center Lady - Super Rare 
+- [ ] 90 - Red - Super Rare 
+- [ ] 91 - Team Rocket Grunt - Super Rare 
+- [ ] 92 - Pikachu ex - Special Art Rare 
+- [ ] 93 - Paldean Clodsire ex - Special Art Rare 
+- [ ] 94 - Tinkaton ex - Special Art Rare 
+- [ ] 95 - Bibarel ex - Special Art Rare 
+- [ ] 96 - Giratina ex - Immersive Rare 
+- [ ] 97 - Weedle - Shiny 
+- [x] 98 - Kakuna - Shiny 
+- [ ] 99 - Charmander - Shiny 
+- [ ] 100 - Charmeleon - Shiny 
+- [ ] 101 - Wiglett - Shiny 
+- [ ] 102 - Dondozo - Shiny 
+- [ ] 103 - Pachirisu - Shiny 
+- [x] 104 - Riolu - Shiny 
+- [ ] 105 - Varoom - Shiny 
+- [x] 106 - Revavroom - Shiny 
+- [ ] 107 - Beedrill ex - Shiny Super Rare 
+- [ ] 108 - Charizard ex - Shiny Super Rare 
+- [ ] 109 - Wugtrio ex - Shiny Super Rare 
+- [ ] 110 - Lucario ex - Shiny Super Rare 
+- [ ] 111 - Poké Ball - Crown Rare 
