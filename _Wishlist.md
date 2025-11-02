@@ -439,7 +439,6 @@
 
 # List_B1-Mega-Rising.md
 - [ ] 2 - Mega Pinsir ex - Double Rare 
-- [ ] 4 - Silcoon - Common 
 - [ ] 5 - Beautifly - Rare 
 - [ ] 7 - Dustox - Rare 
 - [ ] 9 - Nuzleaf - Uncommon 
@@ -452,7 +451,6 @@
 - [ ] 27 - Rillaboom - Rare 
 - [ ] 28 - Growlithe - Common 
 - [ ] 30 - Ponyta - Common 
-- [ ] 31 - Rapidash ex - Double Rare 
 - [ ] 32 - Ho-Oh - Rare 
 - [ ] 34 - Combusken - Uncommon 
 - [ ] 35 - Blaziken - Rare 
@@ -461,13 +459,11 @@
 - [ ] 40 - Darmanitan - Uncommon 
 - [ ] 42 - Lampent - Uncommon 
 - [ ] 43 - Chandelure - Rare 
-- [ ] 44 - Heatmor - Common 
 - [ ] 45 - Litleo - Common 
 - [ ] 46 - Pyroar - Rare 
 - [ ] 48 - Psyduck - Common 
 - [ ] 51 - Gyarados - Rare 
 - [ ] 52 - Mega Gyarados ex - Double Rare 
-- [ ] 53 - Lotad - Common 
 - [ ] 54 - Lombre - Uncommon 
 - [ ] 57 - Wailord - Rare 
 - [ ] 60 - Luvdisc - Common 
@@ -475,11 +471,9 @@
 - [ ] 62 - Simipour - Common 
 - [ ] 66 - Tirtouga - Uncommon 
 - [ ] 70 - Keldeo - Rare 
-- [ ] 73 - Greninja ex - Double Rare 
 - [ ] 74 - Bergmite - Common 
 - [ ] 75 - Avalugg - Uncommon 
 - [ ] 77 - Drednaw - Uncommon 
-- [ ] 79 - Barraskewda - Uncommon 
 - [ ] 80 - Eiscue - Rare 
 - [ ] 81 - Jolteon ex - Double Rare 
 - [ ] 82 - Mareep - Common 
@@ -508,13 +502,11 @@
 - [ ] 131 - Krokorok - Uncommon 
 - [ ] 132 - Krookodile - Rare 
 - [ ] 134 - Archeops - Rare 
-- [ ] 135 - Golett - Common 
 - [ ] 136 - Golurk - Rare 
 - [ ] 138 - Pancham - Common 
 - [ ] 140 - Crabominable - Uncommon 
 - [ ] 141 - Stufful - Common 
 - [ ] 142 - Bewear - Uncommon 
-- [ ] 145 - Rolycoly - Common 
 - [ ] 147 - Coalossal - Rare 
 - [ ] 149 - Honchkrow - Rare 
 - [ ] 151 - Mega Absol ex - Double Rare 
@@ -536,7 +528,6 @@
 - [ ] 178 - Sliggoo - Uncommon 
 - [ ] 179 - Goodra - Rare 
 - [ ] 183 - Tauros ex - Double Rare 
-- [ ] 184 - Eevee - Common 
 - [ ] 185 - Aipom - Common 
 - [ ] 186 - Ambipom - Uncommon 
 - [ ] 191 - Loudred - Common 
@@ -546,7 +537,6 @@
 - [ ] 197 - Altaria - Rare 
 - [ ] 201 - Lillipup - Common 
 - [ ] 202 - Herdier - Uncommon 
-- [ ] 203 - Stoutland - Rare 
 - [ ] 204 - Rufflet - Common 
 - [ ] 206 - Furfrou - Uncommon 
 - [ ] 211 - Wooloo - Common 
@@ -557,14 +547,12 @@
 - [ ] 219 - Heavy Helmet - Uncommon 
 - [ ] 220 - Lucky Mittens - Uncommon 
 - [ ] 221 - Marlon - Uncommon 
-- [ ] 222 - Hala - Uncommon 
 - [ ] 226 - Lisia - Uncommon 
 - [ ] 227 - Beautifly - Art Rare 
 - [ ] 231 - Chandelure - Art Rare 
 - [ ] 232 - Magikarp - Art Rare 
 - [ ] 233 - Ludicolo - Art Rare 
 - [ ] 234 - Jellicent - Art Rare 
-- [ ] 236 - Eiscue - Art Rare 
 - [ ] 237 - Luxray - Art Rare 
 - [ ] 238 - Cofagrigus - Art Rare 
 - [ ] 239 - Gothita - Art Rare 
@@ -615,7 +603,6 @@
 - [ ] 286 - Mega Altaria ex - Immersive Rare 
 - [ ] 287 - Bellsprout - Shiny 
 - [ ] 288 - Weepinbell - Shiny 
-- [ ] 290 - Rowlet - Shiny 
 - [ ] 291 - Dartrix - Shiny 
 - [ ] 292 - Moltres - Shiny 
 - [ ] 293 - Litten - Shiny 
@@ -643,7 +630,6 @@
 - [ ] 316 - Bidoof - Shiny 
 - [ ] 317 - Decidueye ex - Shiny Super Rare 
 - [ ] 318 - Incineroar ex - Shiny Super Rare 
-- [ ] 319 - Palkia ex - Shiny Super Rare 
 - [ ] 320 - Primarina ex - Shiny Super Rare 
 - [ ] 321 - Pikachu ex - Shiny Super Rare 
 - [ ] 322 - Tapu Koko ex - Shiny Super Rare 
