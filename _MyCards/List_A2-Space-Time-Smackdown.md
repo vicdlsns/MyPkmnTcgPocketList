@@ -160,18 +160,18 @@
 - [ ] 160 - Mamoswine - Art Rare 
 - [x] 161 - Gastrodon - Art Rare 
 - [x] 162 - Manaphy - Art Rare 
-- [ ] 163 - Shinx - Art Rare 
+- [x] 163 - Shinx - Art Rare 
 - [x] 164 - Rotom - Art Rare 
 - [x] 165 - Drifloon - Art Rare 
 - [ ] 166 - Mesprit - Art Rare 
 - [x] 167 - Giratina - Art Rare 
 - [x] 168 - Cresselia - Art Rare 
-- [ ] 169 - Rhyperior - Art Rare 
+- [x] 169 - Rhyperior - Art Rare 
 - [x] 170 - Lucario - Art Rare 
 - [x] 171 - Hippopotas - Art Rare 
 - [x] 172 - Spiritomb - Art Rare 
 - [ ] 173 - Croagunk - Art Rare 
-- [ ] 174 - Heatran - Art Rare 
+- [x] 174 - Heatran - Art Rare 
 - [ ] 175 - Garchomp - Art Rare 
 - [x] 176 - Staraptor - Art Rare 
 - [x] 177 - Bidoof - Art Rare 

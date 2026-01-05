@@ -1,11 +1,24 @@
 - [ ] 1 - Pikachu - Art Rare 
-- [ ] 2 - Petilil - Common 
-- [ ] 3 - Froakie - Common 
-- [ ] 4 - Luxray - Rare 
-- [ ] 5 - Pidgey - Common 
-- [ ] 6 - Mega Pidgeot ex - Double Rare 
-- [ ] 7 - Torchic - Rare 
-- [ ] 8 - Psyduck - Rare 
+- [x] 2 - Petilil - Common 
+- [x] 3 - Froakie - Common 
+- [x] 4 - Luxray - Rare 
+- [x] 5 - Pidgey - Common 
+- [x] 6 - Mega Pidgeot ex - Double Rare 
+- [x] 7 - Torchic - Rare 
+- [x] 8 - Psyduck - Rare 
 - [ ] 9 - Mega Absol ex - Double Rare 
-- [ ] 10 - Drifblim - Rare 
-- [ ] 11 - Eevee - Rare 
+- [x] 10 - Drifblim - Rare 
+- [x] 11 - Eevee - Rare 
+- [ ] 12 - Ditto - Art Rare 
+- [x] 13 - Arcanine - Common 
+- [x] 14 - Magikarp - Common 
+- [x] 15 - Mareep - Art Rare 
+- [x] 16 - Krookodile - Rare 
+- [x] 17 - Swablu - Common 
+- [ ] 18 - Heliolisk - Rare 
+- [ ] 19 - Buneary - Rare 
+- [ ] 20 - Charmeleon - Common 
+- [ ] 21 - Onix - Common 
+- [ ] 22 - Hawlucha - Common 
+- [ ] 23 - Genesect - Rare 
+- [ ] 24 - Mega Latios ex - Double Rare 

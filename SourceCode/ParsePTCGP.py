@@ -87,4 +87,8 @@ def genWishlist(filenameList=glob.glob("..\\_MyCards\\*.md"), outFilename="..\\_
 
     with open(outFilename,"w") as file:
         file.writelines(saveList)
+
+def runFromUrl(setCode=None):
+    cards, sets, rarity = getCards(getFromUrl=True)
+    saveMarkdown(setCode)
                 

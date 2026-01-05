@@ -98,7 +98,7 @@
 - [x] 98 - Kakuna - Shiny 
 - [ ] 99 - Charmander - Shiny 
 - [ ] 100 - Charmeleon - Shiny 
-- [ ] 101 - Wiglett - Shiny 
+- [x] 101 - Wiglett - Shiny 
 - [ ] 102 - Dondozo - Shiny 
 - [ ] 103 - Pachirisu - Shiny 
 - [x] 104 - Riolu - Shiny 

@@ -1,0 +1,103 @@
+- [x] 1 - Bulbasaur - Common 
+- [x] 2 - Ivysaur - Uncommon 
+- [x] 3 - Venusaur - Rare 
+- [x] 4 - Mega Venusaur ex - Double Rare 
+- [x] 5 - Spinarak - Common 
+- [x] 6 - Ariados - Uncommon 
+- [x] 7 - Sunkern - Common 
+- [x] 8 - Sunflora - Uncommon 
+- [x] 9 - Burmy - Common 
+- [x] 10 - Mothim - Common 
+- [x] 11 - Charmander - Common 
+- [x] 12 - Charmeleon - Uncommon 
+- [x] 13 - Charizard - Rare 
+- [x] 14 - Mega Charizard Y ex - Double Rare 
+- [x] 15 - Houndour - Common 
+- [x] 16 - Houndoom - Common 
+- [x] 17 - Squirtle - Common 
+- [x] 18 - Wartortle - Uncommon 
+- [x] 19 - Blastoise - Rare 
+- [x] 20 - Mega Blastoise ex - Double Rare 
+- [x] 21 - Basculin - Common 
+- [x] 22 - Clauncher - Common 
+- [x] 23 - Clawitzer - Uncommon 
+- [x] 24 - Magnemite - Common 
+- [x] 25 - Magneton - Uncommon 
+- [x] 26 - Magnezone - Rare 
+- [x] 27 - Emolga - Common 
+- [x] 28 - Helioptile - Common 
+- [x] 29 - Heliolisk - Uncommon 
+- [x] 30 - Misdreavus - Common 
+- [x] 31 - Mismagius - Uncommon 
+- [x] 32 - Solosis - Common 
+- [x] 33 - Duosion - Common 
+- [x] 34 - Reuniclus - Rare 
+- [x] 35 - Spritzee - Common 
+- [x] 36 - Aromatisse - Common 
+- [x] 37 - Xerneas - Rare 
+- [x] 38 - Onix - Common 
+- [x] 39 - Makuhita - Common 
+- [x] 40 - Hariyama - Uncommon 
+- [x] 41 - Nosepass - Common 
+- [x] 42 - Mega Lopunny ex - Double Rare 
+- [x] 43 - Mienfoo - Common 
+- [x] 44 - Mienshao - Common 
+- [x] 45 - Grimer - Common 
+- [x] 46 - Muk - Common 
+- [x] 47 - Purrloin - Common 
+- [x] 48 - Liepard - Uncommon 
+- [x] 49 - Trubbish - Common 
+- [x] 50 - Garbodor - Uncommon 
+- [x] 51 - Steelix - Uncommon 
+- [x] 52 - Mega Steelix ex - Double Rare 
+- [x] 53 - Probopass - Uncommon 
+- [x] 54 - Genesect - Rare 
+- [x] 55 - Ditto - Uncommon 
+- [x] 56 - Porygon - Common 
+- [x] 57 - Porygon2 - Uncommon 
+- [x] 58 - Porygon-Z - Rare 
+- [x] 59 - Starly - Common 
+- [x] 60 - Staravia - Common 
+- [x] 61 - Staraptor - Uncommon 
+- [x] 62 - Buneary - Common 
+- [x] 63 - Lopunny - Uncommon 
+- [x] 64 - Bouffalant - Uncommon 
+- [x] 65 - Furfrou - Uncommon 
+- [x] 66 - Clemont�s Backpack - Uncommon 
+- [x] 67 - Quick-Grow Extract - Uncommon 
+- [x] 68 - Clemont - Uncommon 
+- [x] 69 - Serena - Uncommon 
+- [x] 70 - Ariados - Art Rare 
+- [x] 71 - Sunflora - Art Rare 
+- [x] 72 - Reuniclus - Art Rare 
+- [x] 73 - Xerneas - Art Rare 
+- [x] 74 - Trubbish - Art Rare 
+- [x] 75 - Buneary - Art Rare 
+- [ ] 76 - Mega Venusaur ex - Super Rare 
+- [ ] 77 - Mega Charizard Y ex - Super Rare 
+- [ ] 78 - Mega Blastoise ex - Super Rare 
+- [ ] 79 - Mega Lopunny ex - Super Rare 
+- [ ] 80 - Mega Steelix ex - Super Rare 
+- [ ] 81 - Clemont - Super Rare 
+- [x] 82 - Serena - Super Rare 
+- [x] 83 - Mega Venusaur ex - Special Art Rare 
+- [ ] 84 - Mega Blastoise ex - Special Art Rare 
+- [x] 85 - Mega Lopunny ex - Special Art Rare 
+- [ ] 86 - Mega Steelix ex - Special Art Rare 
+- [ ] 87 - Mega Charizard Y ex - Immersive Rare 
+- [ ] 88 - Oddish - Shiny 
+- [ ] 89 - Gloom - Shiny 
+- [ ] 90 - Vileplume - Shiny 
+- [ ] 91 - Charizard - Shiny 
+- [ ] 92 - Shellder - Shiny 
+- [ ] 93 - Cloyster - Shiny 
+- [x] 94 - Sandshrew - Shiny 
+- [ ] 95 - Sandslash - Shiny 
+- [ ] 96 - Type: Null - Shiny 
+- [ ] 97 - Silvally - Shiny 
+- [ ] 98 - Buzzwole ex - Shiny Super Rare 
+- [ ] 99 - Lunala ex - Shiny Super Rare 
+- [ ] 100 - Guzzlord ex - Shiny Super Rare 
+- [ ] 101 - Solgaleo ex - Shiny Super Rare 
+- [ ] 102 - Aegislash - Crown Rare 
+- [ ] 103 - Quick-Grow Extract - Crown Rare 

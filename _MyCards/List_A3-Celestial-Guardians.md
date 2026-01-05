@@ -157,7 +157,7 @@
 - [x] 157 - Morelull - Art Rare 
 - [x] 158 - Tsareena - Art Rare 
 - [x] 159 - Tapu Bulu - Art Rare 
-- [ ] 160 - Alolan Marowak - Art Rare 
+- [x] 160 - Alolan Marowak - Art Rare 
 - [x] 161 - Turtonator - Art Rare 
 - [x] 162 - Alolan Vulpix - Art Rare 
 - [ ] 163 - Pyukumuku - Art Rare 
@@ -168,13 +168,13 @@
 - [ ] 168 - Comfey - Art Rare 
 - [x] 169 - Sandygast - Art Rare 
 - [x] 170 - Tapu Lele - Art Rare 
-- [ ] 171 - Cosmog - Art Rare 
+- [x] 171 - Cosmog - Art Rare 
 - [x] 172 - Rockruff - Art Rare 
 - [x] 173 - Mudsdale - Art Rare 
-- [ ] 174 - Minior - Art Rare 
+- [x] 174 - Minior - Art Rare 
 - [x] 175 - Magearna - Art Rare 
-- [ ] 176 - Drampa - Art Rare 
-- [ ] 177 - Pikipek - Art Rare 
+- [x] 176 - Drampa - Art Rare 
+- [x] 177 - Pikipek - Art Rare 
 - [ ] 178 - Bewear - Art Rare 
 - [x] 179 - Komala - Art Rare 
 - [x] 180 - Decidueye ex - Super Rare 
@@ -183,7 +183,7 @@
 - [ ] 183 - Crabominable ex - Super Rare 
 - [ ] 184 - Wishiwashi ex - Super Rare 
 - [ ] 185 - Alolan Raichu ex - Super Rare 
-- [ ] 186 - Lunala ex - Super Rare 
+- [x] 186 - Lunala ex - Super Rare 
 - [ ] 187 - Passimian ex - Super Rare 
 - [ ] 188 - Alolan Muk ex - Super Rare 
 - [ ] 189 - Solgaleo ex - Super Rare 
@@ -205,7 +205,7 @@
 - [x] 205 - Passimian ex - Special Art Rare 
 - [x] 206 - Alolan Muk ex - Special Art Rare 
 - [ ] 207 - Solgaleo ex - Special Art Rare 
-- [ ] 208 - Guzma - Immersive Rare 
+- [x] 208 - Guzma - Immersive Rare 
 - [x] 209 - Lillie - Immersive Rare 
 - [ ] 210 - Bulbasaur - Shiny 
 - [x] 211 - Ivysaur - Shiny 
@@ -223,7 +223,7 @@
 - [ ] 223 - Machop - Shiny 
 - [x] 224 - Machoke - Shiny 
 - [x] 225 - Machamp - Shiny 
-- [ ] 226 - Cubone - Shiny 
+- [x] 226 - Cubone - Shiny 
 - [x] 227 - Marowak - Shiny 
 - [ ] 228 - Jigglypuff - Shiny 
 - [x] 229 - Wigglytuff - Shiny 
@@ -232,7 +232,7 @@
 - [ ] 232 - Blastoise ex - Shiny Super Rare 
 - [x] 233 - Starmie ex - Shiny Super Rare 
 - [x] 234 - Gengar ex - Shiny Super Rare 
-- [ ] 235 - Machamp ex - Shiny Super Rare 
+- [x] 235 - Machamp ex - Shiny Super Rare 
 - [ ] 236 - Marowak ex - Shiny Super Rare 
 - [ ] 237 - Wigglytuff ex - Shiny Super Rare 
 - [ ] 238 - Lunala ex - Crown Rare 

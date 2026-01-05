@@ -1,12 +1,12 @@
 - [x] 1 - Pinsir - Common 
-- [ ] 2 - Mega Pinsir ex - Double Rare 
+- [x] 2 - Mega Pinsir ex - Double Rare 
 - [x] 3 - Wurmple - Common 
 - [x] 4 - Silcoon - Common 
-- [ ] 5 - Beautifly - Rare 
+- [x] 5 - Beautifly - Rare 
 - [x] 6 - Cascoon - Common 
-- [ ] 7 - Dustox - Rare 
+- [x] 7 - Dustox - Rare 
 - [x] 8 - Seedot - Common 
-- [ ] 9 - Nuzleaf - Uncommon 
+- [x] 9 - Nuzleaf - Uncommon 
 - [ ] 10 - Shiftry - Rare 
 - [x] 11 - Shroomish - Common 
 - [x] 12 - Breloom - Uncommon 
@@ -15,43 +15,43 @@
 - [x] 15 - Cottonee - Common 
 - [x] 16 - Whimsicott ex - Double Rare 
 - [x] 17 - Petilil - Common 
-- [ ] 18 - Lilligant - Rare 
+- [x] 18 - Lilligant - Rare 
 - [x] 19 - Maractus - Common 
-- [ ] 20 - Virizion - Rare 
+- [x] 20 - Virizion - Rare 
 - [x] 21 - Skiddo - Common 
 - [x] 22 - Gogoat - Common 
 - [x] 23 - Phantump - Common 
 - [x] 24 - Trevenant - Uncommon 
 - [x] 25 - Grookey - Common 
 - [x] 26 - Thwackey - Uncommon 
-- [ ] 27 - Rillaboom - Rare 
-- [ ] 28 - Growlithe - Common 
+- [x] 27 - Rillaboom - Rare 
+- [x] 28 - Growlithe - Common 
 - [x] 29 - Arcanine - Uncommon 
 - [x] 30 - Ponyta - Common 
 - [x] 31 - Rapidash ex - Double Rare 
 - [ ] 32 - Ho-Oh - Rare 
 - [x] 33 - Torchic - Common 
-- [ ] 34 - Combusken - Uncommon 
-- [ ] 35 - Blaziken - Rare 
+- [x] 34 - Combusken - Uncommon 
+- [x] 35 - Blaziken - Rare 
 - [x] 36 - Mega Blaziken ex - Double Rare 
 - [x] 37 - Pansear - Common 
 - [x] 38 - Simisear - Common 
 - [x] 39 - Darumaka - Common 
 - [x] 40 - Darmanitan - Uncommon 
 - [x] 41 - Litwick - Common 
-- [ ] 42 - Lampent - Uncommon 
+- [x] 42 - Lampent - Uncommon 
 - [ ] 43 - Chandelure - Rare 
 - [x] 44 - Heatmor - Common 
-- [ ] 45 - Litleo - Common 
+- [x] 45 - Litleo - Common 
 - [ ] 46 - Pyroar - Rare 
 - [x] 47 - Turtonator - Uncommon 
-- [ ] 48 - Psyduck - Common 
+- [x] 48 - Psyduck - Common 
 - [x] 49 - Golduck - Common 
 - [x] 50 - Magikarp - Common 
 - [x] 51 - Gyarados - Rare 
 - [x] 52 - Mega Gyarados ex - Double Rare 
 - [x] 53 - Lotad - Common 
-- [ ] 54 - Lombre - Uncommon 
+- [x] 54 - Lombre - Uncommon 
 - [x] 55 - Ludicolo - Rare 
 - [x] 56 - Wailmer - Common 
 - [ ] 57 - Wailord - Rare 
@@ -63,26 +63,26 @@
 - [x] 63 - Tympole - Common 
 - [x] 64 - Palpitoad - Common 
 - [x] 65 - Seismitoad - Uncommon 
-- [ ] 66 - Tirtouga - Uncommon 
+- [x] 66 - Tirtouga - Uncommon 
 - [x] 67 - Carracosta - Rare 
 - [x] 68 - Frillish - Common 
 - [x] 69 - Jellicent - Rare 
-- [ ] 70 - Keldeo - Rare 
+- [x] 70 - Keldeo - Rare 
 - [x] 71 - Froakie - Common 
 - [x] 72 - Frogadier - Uncommon 
 - [x] 73 - Greninja ex - Double Rare 
-- [ ] 74 - Bergmite - Common 
+- [x] 74 - Bergmite - Common 
 - [x] 75 - Avalugg - Uncommon 
 - [x] 76 - Chewtle - Common 
 - [x] 77 - Drednaw - Uncommon 
 - [x] 78 - Arrokuda - Common 
 - [x] 79 - Barraskewda - Uncommon 
 - [ ] 80 - Eiscue - Rare 
-- [ ] 81 - Jolteon ex - Double Rare 
-- [ ] 82 - Mareep - Common 
+- [x] 81 - Jolteon ex - Double Rare 
+- [x] 82 - Mareep - Common 
 - [x] 83 - Flaaffy - Uncommon 
-- [ ] 84 - Ampharos - Rare 
-- [ ] 85 - Mega Ampharos ex - Double Rare 
+- [x] 84 - Ampharos - Rare 
+- [x] 85 - Mega Ampharos ex - Double Rare 
 - [x] 86 - Shinx - Common 
 - [x] 87 - Luxio - Uncommon 
 - [x] 88 - Luxray - Rare 
@@ -91,8 +91,8 @@
 - [x] 91 - Zebstrika - Uncommon 
 - [x] 92 - Joltik - Common 
 - [x] 93 - Galvantula - Uncommon 
-- [ ] 94 - Dedenne - Common 
-- [ ] 95 - Yamper - Common 
+- [x] 94 - Dedenne - Common 
+- [x] 95 - Yamper - Common 
 - [x] 96 - Boltund - Uncommon 
 - [x] 97 - Natu - Common 
 - [x] 98 - Xatu - Uncommon 
@@ -100,22 +100,22 @@
 - [x] 100 - Mismagius - Uncommon 
 - [x] 101 - Sableye - Common 
 - [x] 102 - Mega Altaria ex - Double Rare 
-- [ ] 103 - Duskull - Common 
+- [x] 103 - Duskull - Common 
 - [x] 104 - Dusclops - Uncommon 
 - [ ] 105 - Dusknoir - Rare 
-- [ ] 106 - Jirachi - Rare 
-- [ ] 107 - Drifloon - Common 
-- [ ] 108 - Drifblim - Uncommon 
+- [x] 106 - Jirachi - Rare 
+- [x] 107 - Drifloon - Common 
+- [x] 108 - Drifblim - Uncommon 
 - [x] 109 - Chingling - Rare 
 - [x] 110 - Yamask - Common 
 - [ ] 111 - Cofagrigus - Rare 
-- [ ] 112 - Gothita - Common 
+- [x] 112 - Gothita - Common 
 - [x] 113 - Gothorita - Uncommon 
-- [ ] 114 - Gothitelle - Rare 
+- [x] 114 - Gothitelle - Rare 
 - [x] 115 - Spritzee - Common 
 - [x] 116 - Aromatisse - Uncommon 
 - [x] 117 - Swirlix - Common 
-- [ ] 118 - Slurpuff - Uncommon 
+- [x] 118 - Slurpuff - Uncommon 
 - [x] 119 - Carbink - Common 
 - [ ] 120 - Klefki - Rare 
 - [x] 121 - Indeedee ex - Double Rare 
@@ -124,18 +124,18 @@
 - [x] 124 - Hitmonchan ex - Double Rare 
 - [x] 125 - Sudowoodo - Common 
 - [x] 126 - Makuhita - Common 
-- [ ] 127 - Hariyama - Uncommon 
+- [x] 127 - Hariyama - Uncommon 
 - [x] 128 - Hippopotas - Common 
-- [ ] 129 - Hippowdon - Uncommon 
+- [x] 129 - Hippowdon - Uncommon 
 - [x] 130 - Sandile - Common 
-- [ ] 131 - Krokorok - Uncommon 
+- [x] 131 - Krokorok - Uncommon 
 - [ ] 132 - Krookodile - Rare 
 - [x] 133 - Archen - Uncommon 
-- [ ] 134 - Archeops - Rare 
+- [x] 134 - Archeops - Rare 
 - [x] 135 - Golett - Common 
-- [ ] 136 - Golurk - Rare 
+- [x] 136 - Golurk - Rare 
 - [x] 137 - Terrakion - Rare 
-- [ ] 138 - Pancham - Common 
+- [x] 138 - Pancham - Common 
 - [x] 139 - Crabrawler - Common 
 - [x] 140 - Crabominable - Uncommon 
 - [x] 141 - Stufful - Common 
@@ -144,43 +144,43 @@
 - [x] 144 - Palossand - Uncommon 
 - [x] 145 - Rolycoly - Common 
 - [x] 146 - Carkol - Uncommon 
-- [ ] 147 - Coalossal - Rare 
+- [x] 147 - Coalossal - Rare 
 - [x] 148 - Murkrow - Common 
-- [ ] 149 - Honchkrow - Rare 
+- [x] 149 - Honchkrow - Rare 
 - [x] 150 - Absol - Uncommon 
 - [x] 151 - Mega Absol ex - Double Rare 
 - [x] 152 - Skorupi - Common 
 - [x] 153 - Drapion - Uncommon 
-- [ ] 154 - Darkrai - Rare 
-- [ ] 155 - Deino - Common 
-- [ ] 156 - Zweilous - Uncommon 
-- [ ] 157 - Hydreigon - Rare 
+- [x] 154 - Darkrai - Rare 
+- [x] 155 - Deino - Common 
+- [x] 156 - Zweilous - Uncommon 
+- [x] 157 - Hydreigon - Rare 
 - [ ] 158 - Pangoro - Rare 
 - [x] 159 - Skrelp - Common 
-- [ ] 160 - Dragalge ex - Double Rare 
+- [x] 160 - Dragalge ex - Double Rare 
 - [x] 161 - Mareanie - Common 
 - [x] 162 - Toxapex - Uncommon 
 - [x] 163 - Impidimp - Common 
 - [x] 164 - Morgrem - Uncommon 
-- [ ] 165 - Grimmsnarl - Rare 
+- [x] 165 - Grimmsnarl - Rare 
 - [x] 166 - Ferroseed - Common 
 - [x] 167 - Ferrothorn - Uncommon 
 - [x] 168 - Durant - Common 
 - [x] 169 - Cobalion - Rare 
 - [x] 170 - Honedge - Common 
 - [x] 171 - Doublade - Uncommon 
-- [ ] 172 - Aegislash - Rare 
+- [x] 172 - Aegislash - Rare 
 - [x] 173 - Meltan - Common 
-- [ ] 174 - Melmetal ex - Double Rare 
+- [x] 174 - Melmetal ex - Double Rare 
 - [x] 175 - Corviknight - Rare 
 - [x] 176 - Druddigon - Common 
-- [ ] 177 - Goomy - Common 
-- [ ] 178 - Sliggoo - Uncommon 
-- [ ] 179 - Goodra - Rare 
+- [x] 177 - Goomy - Common 
+- [x] 178 - Sliggoo - Uncommon 
+- [x] 179 - Goodra - Rare 
 - [x] 180 - Pidgey - Common 
 - [x] 181 - Pidgeotto - Common 
 - [x] 182 - Pidgeot - Uncommon 
-- [ ] 183 - Tauros ex - Double Rare 
+- [x] 183 - Tauros ex - Double Rare 
 - [x] 184 - Eevee - Common 
 - [x] 185 - Aipom - Common 
 - [x] 186 - Ambipom - Uncommon 
@@ -193,56 +193,56 @@
 - [x] 193 - Skitty - Common 
 - [ ] 194 - Delcatty - Rare 
 - [x] 195 - Spinda - Common 
-- [ ] 196 - Swablu - Common 
+- [x] 196 - Swablu - Common 
 - [ ] 197 - Altaria - Rare 
 - [x] 198 - Chatot - Common 
 - [x] 199 - Patrat - Common 
 - [x] 200 - Watchog - Uncommon 
-- [ ] 201 - Lillipup - Common 
-- [ ] 202 - Herdier - Uncommon 
+- [x] 201 - Lillipup - Common 
+- [x] 202 - Herdier - Uncommon 
 - [x] 203 - Stoutland - Rare 
-- [ ] 204 - Rufflet - Common 
+- [x] 204 - Rufflet - Common 
 - [x] 205 - Braviary - Uncommon 
-- [ ] 206 - Furfrou - Uncommon 
+- [x] 206 - Furfrou - Uncommon 
 - [x] 207 - Furfrou - Uncommon 
 - [x] 208 - Furfrou - Uncommon 
 - [x] 209 - Rookidee - Common 
 - [x] 210 - Corvisquire - Uncommon 
-- [ ] 211 - Wooloo - Common 
-- [ ] 212 - Dubwool - Uncommon 
+- [x] 211 - Wooloo - Common 
+- [x] 212 - Dubwool - Uncommon 
 - [x] 213 - Prank Spinner - Uncommon 
 - [x] 214 - Plume Fossil - Common 
-- [ ] 215 - Hitting Hammer - Uncommon 
+- [x] 215 - Hitting Hammer - Uncommon 
 - [x] 216 - Cover Fossil - Common 
 - [x] 217 - Flame Patch - Uncommon 
-- [ ] 218 - Sitrus Berry - Uncommon 
-- [ ] 219 - Heavy Helmet - Uncommon 
-- [ ] 220 - Lucky Mittens - Uncommon 
+- [x] 218 - Sitrus Berry - Uncommon 
+- [x] 219 - Heavy Helmet - Uncommon 
+- [x] 220 - Lucky Mittens - Uncommon 
 - [x] 221 - Marlon - Uncommon 
 - [x] 222 - Hala - Uncommon 
 - [x] 223 - May - Uncommon 
 - [x] 224 - Fantina - Uncommon 
 - [x] 225 - Copycat - Uncommon 
-- [ ] 226 - Lisia - Uncommon 
+- [x] 226 - Lisia - Uncommon 
 - [ ] 227 - Beautifly - Art Rare 
 - [x] 228 - Skiddo - Art Rare 
 - [x] 229 - Rillaboom - Art Rare 
 - [x] 230 - Growlithe - Art Rare 
 - [ ] 231 - Chandelure - Art Rare 
-- [ ] 232 - Magikarp - Art Rare 
-- [ ] 233 - Ludicolo - Art Rare 
+- [x] 232 - Magikarp - Art Rare 
+- [x] 233 - Ludicolo - Art Rare 
 - [ ] 234 - Jellicent - Art Rare 
 - [x] 235 - Keldeo - Art Rare 
 - [x] 236 - Eiscue - Art Rare 
 - [ ] 237 - Luxray - Art Rare 
 - [ ] 238 - Cofagrigus - Art Rare 
-- [ ] 239 - Gothita - Art Rare 
+- [x] 239 - Gothita - Art Rare 
 - [ ] 240 - Makuhita - Art Rare 
-- [ ] 241 - Hippowdon - Art Rare 
-- [ ] 242 - Archeops - Art Rare 
+- [x] 241 - Hippowdon - Art Rare 
+- [x] 242 - Archeops - Art Rare 
 - [ ] 243 - Pancham - Art Rare 
-- [ ] 244 - Honchkrow - Art Rare 
-- [ ] 245 - Hydreigon - Art Rare 
+- [x] 244 - Honchkrow - Art Rare 
+- [x] 245 - Hydreigon - Art Rare 
 - [ ] 246 - Corviknight - Art Rare 
 - [x] 247 - Goomy - Art Rare 
 - [ ] 248 - Delcatty - Art Rare 
@@ -260,7 +260,7 @@
 - [ ] 260 - Indeedee ex - Super Rare 
 - [x] 261 - Hitmonchan ex - Super Rare 
 - [ ] 262 - Mega Absol ex - Super Rare 
-- [ ] 263 - Dragalge ex - Super Rare 
+- [x] 263 - Dragalge ex - Super Rare 
 - [x] 264 - Melmetal ex - Super Rare 
 - [ ] 265 - Tauros ex - Super Rare 
 - [ ] 266 - Marlon - Super Rare 
@@ -273,15 +273,15 @@
 - [x] 273 - Whimsicott ex - Special Art Rare 
 - [ ] 274 - Rapidash ex - Special Art Rare 
 - [ ] 275 - Greninja ex - Special Art Rare 
-- [ ] 276 - Jolteon ex - Special Art Rare 
+- [x] 276 - Jolteon ex - Special Art Rare 
 - [ ] 277 - Mega Ampharos ex - Special Art Rare 
 - [ ] 278 - Indeedee ex - Special Art Rare 
 - [ ] 279 - Hitmonchan ex - Special Art Rare 
-- [ ] 280 - Mega Absol ex - Special Art Rare 
+- [x] 280 - Mega Absol ex - Special Art Rare 
 - [ ] 281 - Dragalge ex - Special Art Rare 
 - [ ] 282 - Melmetal ex - Special Art Rare 
 - [x] 283 - Tauros ex - Special Art Rare 
-- [ ] 284 - Mega Blaziken ex - Immersive Rare 
+- [x] 284 - Mega Blaziken ex - Immersive Rare 
 - [ ] 285 - Mega Gyarados ex - Immersive Rare 
 - [ ] 286 - Mega Altaria ex - Immersive Rare 
 - [ ] 287 - Bellsprout - Shiny 
@@ -304,7 +304,7 @@
 - [ ] 304 - Zeraora - Shiny 
 - [ ] 305 - Drowzee - Shiny 
 - [ ] 306 - Hypno - Shiny 
-- [ ] 307 - Geodude - Shiny 
+- [x] 307 - Geodude - Shiny 
 - [ ] 308 - Graveler - Shiny 
 - [ ] 309 - Golem - Shiny 
 - [ ] 310 - Rockruff - Shiny 
@@ -314,7 +314,7 @@
 - [ ] 314 - Doduo - Shiny 
 - [ ] 315 - Dodrio - Shiny 
 - [ ] 316 - Bidoof - Shiny 
-- [ ] 317 - Decidueye ex - Shiny Super Rare 
+- [x] 317 - Decidueye ex - Shiny Super Rare 
 - [ ] 318 - Incineroar ex - Shiny Super Rare 
 - [x] 319 - Palkia ex - Shiny Super Rare 
 - [ ] 320 - Primarina ex - Shiny Super Rare 
@@ -323,7 +323,7 @@
 - [ ] 323 - Lycanroc ex - Shiny Super Rare 
 - [ ] 324 - Passimian ex - Shiny Super Rare 
 - [ ] 325 - Alolan Dugtrio ex - Shiny Super Rare 
-- [ ] 326 - Dialga ex - Shiny Super Rare 
+- [x] 326 - Dialga ex - Shiny Super Rare 
 - [ ] 327 - Bibarel ex - Shiny Super Rare 
 - [ ] 328 - Arceus ex - Shiny Super Rare 
 - [ ] 329 - Lilligant - Crown Rare 

@@ -45,7 +45,7 @@
 - [x] 45 - Gyarados - Rare 
 - [x] 46 - Totodile - Common 
 - [x] 47 - Croconaw - Uncommon 
-- [ ] 48 - Feraligatr - Rare 
+- [x] 48 - Feraligatr - Rare 
 - [x] 49 - Marill - Common 
 - [x] 50 - Azumarill - Uncommon 
 - [x] 51 - Wooper - Common 
@@ -176,7 +176,7 @@
 - [x] 176 - Gligar - Art Rare 
 - [ ] 177 - Spinarak - Art Rare 
 - [x] 178 - Murkrow - Art Rare 
-- [ ] 179 - Tyranitar - Art Rare 
+- [x] 179 - Tyranitar - Art Rare 
 - [x] 180 - Scizor - Art Rare 
 - [ ] 181 - Sentret - Art Rare 
 - [ ] 182 - Hoothoot - Art Rare 
@@ -211,7 +211,7 @@
 - [x] 211 - Lugia ex - Immersive Rare 
 - [ ] 212 - Yanma - Shiny 
 - [ ] 213 - Flareon - Shiny 
-- [ ] 214 - Magikarp - Shiny 
+- [x] 214 - Magikarp - Shiny 
 - [ ] 215 - Gyarados - Shiny 
 - [ ] 216 - Vaporeon - Shiny 
 - [ ] 217 - Magnemite - Shiny 
@@ -236,6 +236,6 @@
 - [ ] 236 - Pachirisu ex - Shiny Super Rare 
 - [ ] 237 - Mismagius ex - Shiny Super Rare 
 - [x] 238 - Weavile ex - Shiny Super Rare 
-- [ ] 239 - Lickilicky ex - Shiny Super Rare 
+- [x] 239 - Lickilicky ex - Shiny Super Rare 
 - [ ] 240 - Ho-Oh ex - Crown Rare 
 - [ ] 241 - Lugia ex - Crown Rare 

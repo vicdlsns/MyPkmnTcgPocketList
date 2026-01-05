@@ -81,7 +81,7 @@
 - [ ] 81 - Torracat - Foil Uncommon 
 - [x] 82 - Incineroar ex - Double Rare 
 - [x] 83 - Squirtle - Common 
-- [ ] 84 - Squirtle - Foil Common 
+- [x] 84 - Squirtle - Foil Common 
 - [x] 85 - Wartortle - Uncommon 
 - [ ] 86 - Wartortle - Foil Uncommon 
 - [x] 87 - Blastoise ex - Double Rare 
@@ -149,7 +149,7 @@
 - [x] 149 - Zeraora - Rare 
 - [x] 150 - Zeraora - Foil Rare 
 - [x] 151 - Gastly - Common 
-- [ ] 152 - Gastly - Foil Common 
+- [x] 152 - Gastly - Foil Common 
 - [x] 153 - Haunter - Uncommon 
 - [x] 154 - Haunter - Foil Uncommon 
 - [x] 155 - Gengar ex - Double Rare 
@@ -176,7 +176,7 @@
 - [ ] 176 - Slurpuff - Foil Uncommon 
 - [x] 177 - Sylveon ex - Double Rare 
 - [x] 178 - Oricorio - Uncommon 
-- [ ] 179 - Oricorio - Foil Uncommon 
+- [x] 179 - Oricorio - Foil Uncommon 
 - [x] 180 - Cosmog - Common 
 - [x] 181 - Cosmog - Foil Common 
 - [x] 182 - Cosmoem - Uncommon 
@@ -231,7 +231,7 @@
 - [ ] 231 - Crobat - Foil Rare 
 - [x] 232 - Crobat ex - Double Rare 
 - [x] 233 - Alolan Grimer - Common 
-- [ ] 234 - Alolan Grimer - Foil Common 
+- [x] 234 - Alolan Grimer - Foil Common 
 - [x] 235 - Alolan Muk ex - Double Rare 
 - [x] 236 - Paldean Wooper - Common 
 - [x] 237 - Paldean Wooper - Foil Common 
@@ -270,7 +270,7 @@
 - [x] 270 - Dragonair - Foil Common 
 - [x] 271 - Dragonite ex - Double Rare 
 - [x] 272 - Pidgey - Common 
-- [ ] 273 - Pidgey - Foil Common 
+- [x] 273 - Pidgey - Foil Common 
 - [x] 274 - Pidgeotto - Common 
 - [ ] 275 - Pidgeotto - Foil Common 
 - [x] 276 - Pidgeot ex - Double Rare 

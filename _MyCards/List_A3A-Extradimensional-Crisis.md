@@ -87,7 +87,7 @@
 - [ ] 87 - Alolan Dugtrio ex - Special Art Rare 
 - [x] 88 - Buzzwole ex - Immersive Rare 
 - [ ] 89 - Growlithe - Shiny 
-- [ ] 90 - Arcanine - Shiny 
+- [x] 90 - Arcanine - Shiny 
 - [ ] 91 - Froakie - Shiny 
 - [ ] 92 - Frogadier - Shiny 
 - [ ] 93 - Greninja - Shiny 
